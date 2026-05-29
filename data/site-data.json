@@ -6,80 +6,7 @@
       "location": "Harare",
       "tag": "trader-horn",
       "coverPublicId": "trader-horn/tvexegebzhpgyhyohd49",
-      "deletedPhotos": [
-        "trader-horn/ls0lxago0mygkihdihpc",
-        "trader-horn/x0axtmgy2kxkyjqgeldb",
-        "trader-horn/ofe9asw7ui5grfhzytbg",
-        "trader-horn/gvko9izuxpejkgnygqsz",
-        "trader-horn/svygrizouh1ylqd5osls",
-        "trader-horn/ez9puxrddqmctzsbbny6",
-        "trader-horn/heqgf6mxkznpvqm1scem",
-        "trader-horn/zxg6ccgxijpempgebj54",
-        "trader-horn/urmm6oxgn5dkroeile7c",
-        "trader-horn/fdcrit8iep1fmc0vgh2n",
-        "trader-horn/enfhml6bvfhhon9wjpfo",
-        "trader-horn/f2k0tyh4jpcasaydkvuh",
-        "trader-horn/duoyqvxdnez7m1aphsxb",
-        "trader-horn/avquedfwqqyn6njwqzdw",
-        "trader-horn/fqhbpaclicjzguduq48e",
-        "trader-horn/jlwiq3afobx8dn434ty1",
-        "trader-horn/lgj5n3kxu1q5qov2tjkn",
-        "trader-horn/av6xj1d4vv8vdgwj622l",
-        "trader-horn/p1a4ktntralryumetaza",
-        "trader-horn/tz3qdvmyryttiziwzxyt",
-        "trader-horn/a7ixic6hb9yll69roubf",
-        "trader-horn/yo2cgcme2neowlrieknu",
-        "trader-horn/xhadbcawbunb1ddoeli8",
-        "trader-horn/weivtnsy2erlsvblqjfq",
-        "trader-horn/ig7zhydj79u3fnjkfheo",
-        "trader-horn/jf7wbw4gsrblvzfhc5ip",
-        "trader-horn/slcwhsndihz5rj1mwfq2",
-        "trader-horn/ngorbpka3zvqf4ewlmwk",
-        "trader-horn/phf6qcofyclfp2jus8l7",
-        "trader-horn/gsxqsqxcpsbdqggukkzz",
-        "trader-horn/vmqy11mzke57kbl6em5e",
-        "trader-horn/utjboe5mgd3s6vzruqq7",
-        "trader-horn/jujsvnwynit6czzsvesx",
-        "trader-horn/pldkclxvimmh2fvike60",
-        "trader-horn/b4blixyzb27rxhslsxzf",
-        "trader-horn/kvrsbhlelmvmjsmxwfla",
-        "trader-horn/pzlctyu200bwy171a4p4",
-        "trader-horn/xorfhqxh4ad5h4dwg0k8",
-        "trader-horn/yl6lt6isyhek4xguxjsl",
-        "trader-horn/ruttgstsasvdfsvhcf3z",
-        "trader-horn/s1icxn8kazq3di4n3lom",
-        "trader-horn/dcbfu45b86374ss18mvo",
-        "trader-horn/x0wyjeflxrmeud50z6e5",
-        "trader-horn/bu8uwjedlc6cubgiashh",
-        "trader-horn/x0th3v8pw3mmfoa98hdd",
-        "trader-horn/ryclabcdw3g6jok26z9x",
-        "trader-horn/tbwkjxsfxiax1ijb5m9p",
-        "trader-horn/ct5irb9b5c03msb1sun6",
-        "trader-horn/zkqhg9uqwxo3tntl7ego",
-        "trader-horn/undclt5zv8mloepyzcdo",
-        "trader-horn/st4aaycmnr95tos2db0e",
-        "trader-horn/rhtd1hcw8fupqvnifwrg",
-        "trader-horn/yxuqoebpk9nfcnovf8ln",
-        "trader-horn/v5mfvmydwxjguvbccc4f",
-        "trader-horn/tlkrlnayua76wazhxc9u",
-        "trader-horn/kcvvzqxnsnuosbg3l8bh",
-        "trader-horn/u9thmaukuavmzou3d6d9",
-        "trader-horn/ktategbztgzoucecwx7k",
-        "trader-horn/fvqzyzp3e1tckd1jnirp",
-        "trader-horn/fykysz3qgpxlbncar9oc",
-        "trader-horn/d3o7txlvbiypsdjbb1rd",
-        "trader-horn/ptenbs6b9b43kamyrpnc",
-        "trader-horn/wkuz3qhrn68zxogqgj3k",
-        "trader-horn/ixiunculjrezrc277bqz",
-        "trader-horn/uonx5gtvtwpsprqa1pbu",
-        "trader-horn/yq8admrl3qzyakuhorqg",
-        "trader-horn/xrsw7zz3p7cisj8k6igg",
-        "trader-horn/sedmrleftwuh4tshdvjw",
-        "trader-horn/ulrkdxrnya7a1f8xkejz",
-        "trader-horn/x2d2wrfdb4jjapmn2otg",
-        "trader-horn/mzd2zk6hthjtgsj9znwm",
-        "trader-horn/jngupnapbffr2mupm5gx"
-      ]
+      "photoOrder": []
     }
   ],
   "officers": [
@@ -89,7 +16,7 @@
       "handle": "",
       "bikes": [],
       "coverPublicId": null,
-      "deletedPhotos": []
+      "photoOrder": []
     },
     {
       "role": "vice-president",
@@ -97,7 +24,7 @@
       "handle": "",
       "bikes": [],
       "coverPublicId": null,
-      "deletedPhotos": []
+      "photoOrder": []
     },
     {
       "role": "secretary",
@@ -105,7 +32,7 @@
       "handle": "",
       "bikes": [],
       "coverPublicId": null,
-      "deletedPhotos": []
+      "photoOrder": []
     },
     {
       "role": "treasurer",
@@ -113,7 +40,7 @@
       "handle": "",
       "bikes": [],
       "coverPublicId": null,
-      "deletedPhotos": []
+      "photoOrder": []
     },
     {
       "role": "sergeant-at-arms",
@@ -121,7 +48,7 @@
       "handle": "",
       "bikes": [],
       "coverPublicId": null,
-      "deletedPhotos": []
+      "photoOrder": []
     },
     {
       "role": "road-captain",
@@ -129,7 +56,7 @@
       "handle": "",
       "bikes": [],
       "coverPublicId": null,
-      "deletedPhotos": []
+      "photoOrder": []
     }
   ]
 }
