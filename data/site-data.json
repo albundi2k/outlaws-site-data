@@ -1,14 +1,5 @@
 {
-  "memories": [
-    {
-      "title": "Test",
-      "date": "",
-      "location": "",
-      "tag": "test",
-      "coverPublicId": null,
-      "photoOrder": []
-    }
-  ],
+  "memories": [],
   "officers": [
     {
       "role": "president",
