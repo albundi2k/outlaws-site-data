@@ -1,5 +1,14 @@
 {
-  "memories": [],
+  "memories": [
+    {
+      "title": "Trader Horn",
+      "date": "",
+      "location": "",
+      "tag": "trader-horn",
+      "coverPublicId": null,
+      "deletedPhotos": []
+    }
+  ],
   "officers": [
     {
       "role": "president",
