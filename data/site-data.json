@@ -1,0 +1,53 @@
+{
+  "memories": [],
+  "officers": [
+    {
+      "role": "president",
+      "name": "",
+      "handle": "",
+      "bikes": [],
+      "coverPublicId": null,
+      "deletedPhotos": []
+    },
+    {
+      "role": "vice-president",
+      "name": "",
+      "handle": "",
+      "bikes": [],
+      "coverPublicId": null,
+      "deletedPhotos": []
+    },
+    {
+      "role": "secretary",
+      "name": "",
+      "handle": "",
+      "bikes": [],
+      "coverPublicId": null,
+      "deletedPhotos": []
+    },
+    {
+      "role": "treasurer",
+      "name": "",
+      "handle": "",
+      "bikes": [],
+      "coverPublicId": null,
+      "deletedPhotos": []
+    },
+    {
+      "role": "sergeant-at-arms",
+      "name": "",
+      "handle": "",
+      "bikes": [],
+      "coverPublicId": null,
+      "deletedPhotos": []
+    },
+    {
+      "role": "road-captain",
+      "name": "",
+      "handle": "",
+      "bikes": [],
+      "coverPublicId": null,
+      "deletedPhotos": []
+    }
+  ]
+}
