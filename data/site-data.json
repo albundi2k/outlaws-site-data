@@ -7,7 +7,8 @@
       "tag": "trader-horn",
       "coverPublicId": null,
       "photoOrder": [],
-      "photoMetadata": {}
+      "photoMetadata": {},
+      "enhanceSlideshow": true
     }
   ],
   "officers": [
@@ -16,7 +17,10 @@
       "name": "Fadi Khatoun",
       "handle": "Fadi",
       "bikes": [
-        "Harley-Davidson Road Glide"
+        {
+          "name": "Harley-Davidson Road Glide",
+          "nickname": ""
+        }
       ],
       "testimonial": "",
       "coverPublicId": null,
@@ -27,7 +31,10 @@
       "name": "Richard Dos Santos",
       "handle": "Richy",
       "bikes": [
-        "Harley-Davidson Electra Glide Ultra Limited"
+        {
+          "name": "Harley-Davidson Electra Glide Ultra Limited",
+          "nickname": ""
+        }
       ],
       "testimonial": "",
       "coverPublicId": null,
