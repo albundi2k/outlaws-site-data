@@ -53,15 +53,19 @@
         "trader-horn/hnkwitexwgnquzg41z9z",
         "trader-horn/duehmwwbl0braiv19fvt",
         "trader-horn/fg8uvbeybzhs7jieh4kn"
-      ]
+      ],
+      "photoMetadata": {}
     }
   ],
   "officers": [
     {
       "role": "president",
-      "name": "",
+      "name": "Fadi K",
       "handle": "",
-      "bikes": [],
+      "bikes": [
+        ""
+      ],
+      "testimonial": "",
       "coverPublicId": null,
       "photoOrder": []
     },
@@ -70,6 +74,7 @@
       "name": "",
       "handle": "",
       "bikes": [],
+      "testimonial": "",
       "coverPublicId": null,
       "photoOrder": []
     },
@@ -78,6 +83,7 @@
       "name": "",
       "handle": "",
       "bikes": [],
+      "testimonial": "",
       "coverPublicId": null,
       "photoOrder": []
     },
@@ -86,6 +92,7 @@
       "name": "",
       "handle": "",
       "bikes": [],
+      "testimonial": "",
       "coverPublicId": null,
       "photoOrder": []
     },
@@ -94,6 +101,7 @@
       "name": "",
       "handle": "",
       "bikes": [],
+      "testimonial": "",
       "coverPublicId": null,
       "photoOrder": []
     },
@@ -102,8 +110,10 @@
       "name": "",
       "handle": "",
       "bikes": [],
+      "testimonial": "",
       "coverPublicId": null,
       "photoOrder": []
     }
-  ]
+  ],
+  "gear": []
 }
