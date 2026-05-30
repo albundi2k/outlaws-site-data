@@ -6,8 +6,82 @@
       "location": "Harare",
       "tag": "trader-horn",
       "coverPublicId": null,
-      "photoOrder": [],
-      "photoMetadata": {},
+      "photoOrder": [
+        "trader-horn/eiwp9nirzgmzth8jughs",
+        "trader-horn/l5ondatjpqyptqcmfvxx",
+        "trader-horn/uhpovf0iec4rih38obzw",
+        "trader-horn/pehremx0232rdqm708qk",
+        "trader-horn/dkqi0yx7ayavmp8k2q64",
+        "trader-horn/cwiz10rpzvfyd3onbfaq",
+        "trader-horn/dmfqzltwgbiphssozzds",
+        "trader-horn/y7zgg4b7le9mm9eh7oan",
+        "trader-horn/m01toprtca45jqjy2a7t",
+        "trader-horn/crbbkk1fcpi0sqxcbvnx",
+        "trader-horn/dmio5wy7zpvlecilmodr",
+        "trader-horn/dmxyro0demihrmzuxsg7",
+        "trader-horn/gn5jha3gjldmao0phumk",
+        "trader-horn/tgodj0ujafxguvxzczav",
+        "trader-horn/tyhkdilghsrzvugkuv7q",
+        "trader-horn/o1nspyg6vmxegapwvexk",
+        "trader-horn/jyook5jrogvlo0bnwamu",
+        "trader-horn/tcxnrkuf0crh4qlqjk7t",
+        "trader-horn/sx22ninducxeq6tpf0be",
+        "trader-horn/rsfqp7nby7bqedbrtydw",
+        "trader-horn/sq0tgsoiqnuligilruwz",
+        "trader-horn/ve3gzryjqbz91umqklaf",
+        "trader-horn/gaubvtrmpzckygke1me9",
+        "trader-horn/eshv6cjwcxkqnoczij09",
+        "trader-horn/nxd2z2vybvriwzlyrgym",
+        "trader-horn/v5fsru8m1j0oiqqpw3vd",
+        "trader-horn/uqd5xhqexrac3gsostls",
+        "trader-horn/h6evrvrnx2xpkduilxwn",
+        "trader-horn/bevkhc6ohabf5x3vcbqn",
+        "trader-horn/rux8ks6eft3exatdene2",
+        "trader-horn/qzfbdyvzu4blmlayjenc",
+        "trader-horn/yzt9nssappi8wszwcyyh",
+        "trader-horn/xt65wb9ry2og0wgjfp4f",
+        "trader-horn/vylzjn2pwzttp953i7xb",
+        "trader-horn/dslfrj3kfd9rdfr6cohp",
+        "trader-horn/ii2byuzwla2aum3xs81i",
+        "trader-horn/lpopflstaczxfkfdnd9o",
+        "trader-horn/l9vl0z0ctfkyofolf6z6",
+        "trader-horn/tjr60tnbawgz45zg79wz",
+        "trader-horn/yrihce62ybfoqltpc9ks",
+        "trader-horn/ewyfa7wjiqvlzsg8uznq",
+        "trader-horn/shcovbmsyuhtoxotp4aj",
+        "trader-horn/pef9xkkg2ourl2zf3atf",
+        "trader-horn/p2ebuzfhwltssqj9rsuy"
+      ],
+      "photoMetadata": {
+        "trader-horn/dslfrj3kfd9rdfr6cohp": {
+          "gps": {
+            "lat": null,
+            "lng": null
+          },
+          "place": null
+        },
+        "trader-horn/ii2byuzwla2aum3xs81i": {
+          "gps": {
+            "lat": null,
+            "lng": null
+          },
+          "place": null
+        },
+        "trader-horn/lpopflstaczxfkfdnd9o": {
+          "gps": {
+            "lat": null,
+            "lng": null
+          },
+          "place": null
+        },
+        "trader-horn/l9vl0z0ctfkyofolf6z6": {
+          "gps": {
+            "lat": null,
+            "lng": null
+          },
+          "place": null
+        }
+      },
       "enhanceSlideshow": true
     }
   ],
