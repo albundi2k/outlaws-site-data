@@ -89,13 +89,8 @@
     {
       "role": "president",
       "name": "Fadi Khatoun",
-      "handle": "Fadi",
-      "bikes": [
-        {
-          "name": "Harley-Davidson Road Glide",
-          "nickname": ""
-        }
-      ],
+      "handle": "",
+      "bikes": [],
       "testimonial": "",
       "coverPublicId": null,
       "photoOrder": []
@@ -160,7 +155,7 @@
       "badges": [
         "Founding-Member"
       ],
-      "office": "",
+      "office": "president",
       "coverPublicId": null,
       "photoOrder": []
     },
