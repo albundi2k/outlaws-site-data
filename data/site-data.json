@@ -156,6 +156,17 @@
   "gear": [],
   "members": [
     {
+      "id": "fadi-khatoun",
+      "name": "Fadi Khatoun",
+      "nickname": "",
+      "bikes": [],
+      "bio": "",
+      "memberSince": "2026",
+      "badges": [],
+      "coverPublicId": null,
+      "photoOrder": []
+    },
+    {
       "id": "richard-dos-santos",
       "name": "Richard Dos Santos",
       "nickname": "",
