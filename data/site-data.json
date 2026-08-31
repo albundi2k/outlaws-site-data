@@ -103,13 +103,8 @@
     {
       "role": "vice-president",
       "name": "Richard Dos Santos",
-      "handle": "Richy",
-      "bikes": [
-        {
-          "name": "Harley-Davidson Electra Glide Ultra Limited",
-          "nickname": "Green Mamba"
-        }
-      ],
+      "handle": "",
+      "bikes": [],
       "testimonial": "",
       "coverPublicId": null,
       "photoOrder": [
@@ -165,6 +160,7 @@
       "badges": [
         "Founding-Member"
       ],
+      "office": "",
       "coverPublicId": null,
       "photoOrder": []
     },
@@ -178,6 +174,7 @@
       "badges": [
         "Founding-Member"
       ],
+      "office": "vice-president",
       "coverPublicId": null,
       "photoOrder": []
     },
@@ -189,6 +186,7 @@
       "bio": "",
       "memberSince": "2026",
       "badges": [],
+      "office": "",
       "coverPublicId": null,
       "photoOrder": []
     },
@@ -200,6 +198,7 @@
       "bio": "",
       "memberSince": "2026",
       "badges": [],
+      "office": "",
       "coverPublicId": null,
       "photoOrder": []
     },
@@ -211,6 +210,7 @@
       "bio": "",
       "memberSince": "2026",
       "badges": [],
+      "office": "",
       "coverPublicId": null,
       "photoOrder": []
     },
@@ -222,6 +222,7 @@
       "bio": "",
       "memberSince": "2026",
       "badges": [],
+      "office": "",
       "coverPublicId": null,
       "photoOrder": []
     },
@@ -233,6 +234,7 @@
       "bio": "",
       "memberSince": "2026",
       "badges": [],
+      "office": "",
       "coverPublicId": null,
       "photoOrder": []
     },
@@ -249,6 +251,7 @@
       "bio": "It is what it is",
       "memberSince": "2026",
       "badges": [],
+      "office": "",
       "coverPublicId": null,
       "photoOrder": []
     }
