@@ -198,6 +198,18 @@
       "photoOrder": []
     },
     {
+      "id": "haiden-broderick",
+      "name": "Haiden Broderick",
+      "nickname": "",
+      "bikes": [],
+      "bio": "",
+      "memberSince": "2026",
+      "badges": [],
+      "office": "",
+      "coverPublicId": null,
+      "photoOrder": []
+    },
+    {
       "id": "shahzad-ejaz",
       "name": "Shahzad Ejaz",
       "nickname": "",
@@ -212,18 +224,6 @@
     {
       "id": "joseph-taghlian",
       "name": "Joseph Taghlian",
-      "nickname": "",
-      "bikes": [],
-      "bio": "",
-      "memberSince": "2026",
-      "badges": [],
-      "office": "",
-      "coverPublicId": null,
-      "photoOrder": []
-    },
-    {
-      "id": "haiden-broderick",
-      "name": "Haiden Broderick",
       "nickname": "",
       "bikes": [],
       "bio": "",
