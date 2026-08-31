@@ -156,6 +156,17 @@
   "gear": [],
   "members": [
     {
+      "id": "haiden-broderick",
+      "name": "Haiden Broderick",
+      "nickname": "",
+      "bikes": [],
+      "bio": "",
+      "memberSince": "2026",
+      "badges": [],
+      "coverPublicId": null,
+      "photoOrder": []
+    },
+    {
       "id": "alan-bester",
       "name": "Alan Bester",
       "nickname": "Bundi",
