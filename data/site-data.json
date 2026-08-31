@@ -153,5 +153,18 @@
       "photoOrder": []
     }
   ],
-  "gear": []
+  "gear": [],
+  "members": [
+    {
+      "id": "alan-bester",
+      "name": "Alan Bester",
+      "nickname": "",
+      "bikes": [],
+      "bio": "",
+      "memberSince": "2026",
+      "badges": [],
+      "coverPublicId": null,
+      "photoOrder": []
+    }
+  ]
 }
