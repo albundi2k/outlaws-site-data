@@ -162,7 +162,9 @@
       "bikes": [],
       "bio": "",
       "memberSince": "Founder",
-      "badges": [],
+      "badges": [
+        "Founding"
+      ],
       "coverPublicId": null,
       "photoOrder": []
     },
