@@ -175,7 +175,9 @@
       "bikes": [],
       "bio": "",
       "memberSince": "2026",
-      "badges": [],
+      "badges": [
+        "Founding-Member"
+      ],
       "coverPublicId": null,
       "photoOrder": []
     },
