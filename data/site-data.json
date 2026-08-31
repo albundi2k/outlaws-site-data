@@ -156,6 +156,17 @@
   "gear": [],
   "members": [
     {
+      "id": "lucky-chitima",
+      "name": "Lucky Chitima",
+      "nickname": "",
+      "bikes": [],
+      "bio": "",
+      "memberSince": "2026",
+      "badges": [],
+      "coverPublicId": null,
+      "photoOrder": []
+    },
+    {
       "id": "joseph-taghlian",
       "name": "Joseph Taghlian",
       "nickname": "",
