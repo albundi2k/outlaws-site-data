@@ -492,6 +492,18 @@
       "organiser": "",
       "notes": "",
       "status": "confirmed"
+    },
+    {
+      "id": "ride-lfhjec3",
+      "title": "Nyami Nyami",
+      "date": "2026-03-02",
+      "endDate": "2026-03-03",
+      "location": "Kariba",
+      "type": "Rally",
+      "host": "Guest club",
+      "organiser": "",
+      "notes": "",
+      "status": "confirmed"
     }
   ],
   "members": [
