@@ -468,6 +468,18 @@
       "organiser": "",
       "notes": "",
       "status": "confirmed"
+    },
+    {
+      "id": "ride-fvlh5ru",
+      "title": "Trout Rally",
+      "date": "2026-10-17",
+      "endDate": "2026-10-18",
+      "location": "",
+      "type": "Rally",
+      "host": "Havoc Brothers",
+      "organiser": "Havoc Brothers",
+      "notes": "",
+      "status": "confirmed"
     }
   ],
   "members": [
