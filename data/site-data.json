@@ -420,6 +420,18 @@
       "organiser": "",
       "notes": "",
       "status": "confirmed"
+    },
+    {
+      "id": "ride-fwmjtjm",
+      "title": "Gold Run",
+      "date": "2026-02-14",
+      "endDate": "2026-01-15",
+      "location": "",
+      "type": "Rally",
+      "host": "Guest club",
+      "organiser": "",
+      "notes": "",
+      "status": "confirmed"
     }
   ],
   "members": [
