@@ -390,7 +390,7 @@
     },
     {
       "role": "sergeant-at-arms",
-      "name": "",
+      "name": "Haiden Broderick",
       "handle": "",
       "bikes": [],
       "testimonial": "",
@@ -408,6 +408,7 @@
     }
   ],
   "gear": [],
+  "rides": [],
   "members": [
     {
       "id": "fadi-khatoun",
@@ -478,7 +479,7 @@
       "bio": "",
       "memberSince": "2026",
       "badges": [],
-      "office": "",
+      "office": "sergeant-at-arms",
       "coverPublicId": null,
       "photoOrder": []
     },
