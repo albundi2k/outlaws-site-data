@@ -456,6 +456,18 @@
       "organiser": "",
       "notes": "",
       "status": "confirmed"
+    },
+    {
+      "id": "ride-p0jzr1r",
+      "title": "Vic Falls Rally",
+      "date": "2026-09-26",
+      "endDate": "2026-09-27",
+      "location": "",
+      "type": "Rally",
+      "host": "Guest club",
+      "organiser": "",
+      "notes": "",
+      "status": "confirmed"
     }
   ],
   "members": [
