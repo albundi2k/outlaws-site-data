@@ -408,7 +408,20 @@
     }
   ],
   "gear": [],
-  "rides": [],
+  "rides": [
+    {
+      "id": "ride-dvoy6jf",
+      "title": "Ubuntu",
+      "date": "2026-01-24",
+      "endDate": "2026-01-25",
+      "location": "",
+      "type": "Rally",
+      "host": "Guest club",
+      "organiser": "",
+      "notes": "",
+      "status": "confirmed"
+    }
+  ],
   "members": [
     {
       "id": "fadi-khatoun",
