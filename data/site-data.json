@@ -480,6 +480,18 @@
       "organiser": "Havoc Brothers",
       "notes": "",
       "status": "confirmed"
+    },
+    {
+      "id": "ride-ivj737s",
+      "title": "ZPE Mutare",
+      "date": "2026-11-21",
+      "endDate": "2026-11-22",
+      "location": "",
+      "type": "Rally",
+      "host": "Guest club",
+      "organiser": "",
+      "notes": "",
+      "status": "confirmed"
     }
   ],
   "members": [
