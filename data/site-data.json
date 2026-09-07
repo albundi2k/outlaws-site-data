@@ -579,6 +579,25 @@
       "poster": "https://res.cloudinary.com/dgmk5yybs/image/upload/v1788781414/ride-posters/yowl9v9kthp8x9jfzlua.jpg",
       "posterId": "ride-posters/yowl9v9kthp8x9jfzlua",
       "notes": "Baron of Beef on the spit and Ice cold beers"
+    },
+    {
+      "id": "ride-2ircktr",
+      "title": "Ubuntu 2026",
+      "date": "2026-01-25",
+      "endDate": "2026-01-25",
+      "meetPoint": "",
+      "meetTime": "",
+      "kickstands": "",
+      "destination": "",
+      "cost": "",
+      "type": "Club ride",
+      "host": "Guest club",
+      "organiser": "",
+      "organiserPhone": "",
+      "organiserEmail": "",
+      "poster": "",
+      "posterId": "",
+      "notes": ""
     }
   ],
   "members": [
