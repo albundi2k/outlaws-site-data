@@ -617,6 +617,18 @@
       ]
     },
     {
+      "id": "valdano-brown",
+      "name": "Valdano Brown",
+      "nickname": "",
+      "bikes": [],
+      "bio": "",
+      "memberSince": "2026",
+      "badges": [],
+      "office": "",
+      "coverPublicId": null,
+      "photoOrder": []
+    },
+    {
       "id": "lucky-chitima",
       "name": "Lucky Chitima",
       "nickname": "",
@@ -630,18 +642,6 @@
         "member-lucky-chitima/xxfnoe4rntfn43dzs4hx",
         "member-lucky-chitima/tqvduqvqmaf6iqug0rtb"
       ]
-    },
-    {
-      "id": "valdano-brown",
-      "name": "Valdano Brown",
-      "nickname": "",
-      "bikes": [],
-      "bio": "",
-      "memberSince": "2026",
-      "badges": [],
-      "office": "",
-      "coverPublicId": null,
-      "photoOrder": []
     },
     {
       "id": "haiden-broderick",
