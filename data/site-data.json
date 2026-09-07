@@ -356,7 +356,7 @@
       "handle": "",
       "bikes": [],
       "testimonial": "",
-      "coverPublicId": null,
+      "coverPublicId": "member-fadi-khatoun/y2jw57qgndo9updxm91x",
       "photoOrder": []
     },
     {
@@ -418,8 +418,7 @@
       "type": "Rally",
       "host": "Guest club",
       "organiser": "",
-      "notes": "",
-      "status": "confirmed"
+      "notes": ""
     },
     {
       "id": "ride-fwmjtjm",
@@ -430,8 +429,7 @@
       "type": "Rally",
       "host": "Guest club",
       "organiser": "",
-      "notes": "",
-      "status": "confirmed"
+      "notes": ""
     },
     {
       "id": "ride-90mnc57",
@@ -442,8 +440,7 @@
       "type": "Rally",
       "host": "Guest club",
       "organiser": "",
-      "notes": "",
-      "status": "confirmed"
+      "notes": ""
     },
     {
       "id": "ride-oe17yov",
@@ -454,8 +451,7 @@
       "type": "Club ride",
       "host": "Guest club",
       "organiser": "",
-      "notes": "",
-      "status": "confirmed"
+      "notes": ""
     },
     {
       "id": "ride-p0jzr1r",
@@ -466,8 +462,7 @@
       "type": "Rally",
       "host": "Guest club",
       "organiser": "",
-      "notes": "",
-      "status": "confirmed"
+      "notes": ""
     },
     {
       "id": "ride-fvlh5ru",
@@ -478,8 +473,7 @@
       "type": "Rally",
       "host": "Havoc Brothers",
       "organiser": "Havoc Brothers",
-      "notes": "",
-      "status": "confirmed"
+      "notes": ""
     },
     {
       "id": "ride-ivj737s",
@@ -490,8 +484,7 @@
       "type": "Rally",
       "host": "Guest club",
       "organiser": "",
-      "notes": "",
-      "status": "confirmed"
+      "notes": ""
     },
     {
       "id": "ride-lfhjec3",
@@ -502,8 +495,7 @@
       "type": "Rally",
       "host": "Guest club",
       "organiser": "",
-      "notes": "",
-      "status": "confirmed"
+      "notes": ""
     }
   ],
   "members": [
