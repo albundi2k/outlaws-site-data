@@ -598,6 +598,25 @@
       "poster": "https://res.cloudinary.com/dgmk5yybs/image/upload/v1788842942/ride-posters/blsipxqqg1zomcgkopl2.jpg",
       "posterId": "ride-posters/blsipxqqg1zomcgkopl2",
       "notes": ""
+    },
+    {
+      "id": "ride-sicpjl8",
+      "title": "Nyami Nyami",
+      "date": "2026-05-01",
+      "endDate": "2026-05-03",
+      "meetPoint": "Westgate",
+      "meetTime": "07:00",
+      "kickstands": "07:30",
+      "destination": "Lake Kariba",
+      "cost": "",
+      "type": "Rally",
+      "host": "Havoc Brothers",
+      "organiser": "Havoc Brothers",
+      "organiserPhone": "+263 772105246",
+      "organiserEmail": "",
+      "poster": "https://res.cloudinary.com/dgmk5yybs/image/upload/v1788845410/ride-posters/rkqtloaoypg21eyomww1.jpg",
+      "posterId": "ride-posters/rkqtloaoypg21eyomww1",
+      "notes": "Annual Nyami Nyami run, book as required."
     }
   ],
   "members": [
