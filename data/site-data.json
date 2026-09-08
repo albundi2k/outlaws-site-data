@@ -693,6 +693,25 @@
       "poster": "https://res.cloudinary.com/dgmk5yybs/image/upload/v1788856849/ride-posters/vaoqh95dhs5w5svehi8l.jpg",
       "posterId": "ride-posters/vaoqh95dhs5w5svehi8l",
       "notes": "Theme is Vintage\nBest dressed man, woman and biker"
+    },
+    {
+      "id": "ride-8ifturp",
+      "title": "The Mutare Run 2024",
+      "date": "2024-11-22",
+      "endDate": "2024-11-24",
+      "meetPoint": "Msasa Glow Service Station",
+      "meetTime": "09:00",
+      "kickstands": "",
+      "destination": "Mutare",
+      "cost": "",
+      "type": "Rally",
+      "host": "Guest club",
+      "organiser": "",
+      "organiserPhone": "+263773151442",
+      "organiserEmail": "",
+      "poster": "https://res.cloudinary.com/dgmk5yybs/image/upload/v1788857060/ride-posters/hcrtjichy3df8z2fqnss.jpg",
+      "posterId": "ride-posters/hcrtjichy3df8z2fqnss",
+      "notes": ""
     }
   ],
   "members": [
