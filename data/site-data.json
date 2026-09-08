@@ -579,6 +579,25 @@
       "poster": "https://res.cloudinary.com/dgmk5yybs/image/upload/v1788842749/ride-posters/cleoaqgdydfki80id7r7.jpg",
       "posterId": "ride-posters/cleoaqgdydfki80id7r7",
       "notes": "Lunch and Speeches @1230hrs , Depart Back to Harare 1400hrs."
+    },
+    {
+      "id": "ride-7d3b094",
+      "title": "Moz Rally 5th Edition 2026",
+      "date": "2026-06-26",
+      "endDate": "2026-06-28",
+      "meetPoint": "",
+      "meetTime": "06:00",
+      "kickstands": "06:30",
+      "destination": "Tete Mozambique",
+      "cost": "",
+      "type": "Rally",
+      "host": "Guest club",
+      "organiser": "",
+      "organiserPhone": "+258849336879",
+      "organiserEmail": "",
+      "poster": "https://res.cloudinary.com/dgmk5yybs/image/upload/v1788842942/ride-posters/blsipxqqg1zomcgkopl2.jpg",
+      "posterId": "ride-posters/blsipxqqg1zomcgkopl2",
+      "notes": ""
     }
   ],
   "members": [
