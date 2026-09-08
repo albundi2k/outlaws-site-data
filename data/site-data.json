@@ -579,6 +579,25 @@
       "poster": "https://res.cloudinary.com/dgmk5yybs/image/upload/v1788781414/ride-posters/yowl9v9kthp8x9jfzlua.jpg",
       "posterId": "ride-posters/yowl9v9kthp8x9jfzlua",
       "notes": "Baron of Beef on the spit and Ice cold beers"
+    },
+    {
+      "id": "ride-lqfqngi",
+      "title": "Ubuntu 2026 10th Anniversary",
+      "date": "2026-01-25",
+      "endDate": "2026-01-25",
+      "meetPoint": "GreenField's",
+      "meetTime": "06:00",
+      "kickstands": "07:00",
+      "destination": "Kwekwe",
+      "cost": "",
+      "type": "Rally",
+      "host": "Guest club",
+      "organiser": "",
+      "organiserPhone": "",
+      "organiserEmail": "",
+      "poster": "https://res.cloudinary.com/dgmk5yybs/image/upload/v1788842749/ride-posters/cleoaqgdydfki80id7r7.jpg",
+      "posterId": "ride-posters/cleoaqgdydfki80id7r7",
+      "notes": "Lunch and Speeches @1230hrs , Depart Back to Harare 1400hrs."
     }
   ],
   "members": [
