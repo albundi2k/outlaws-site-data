@@ -411,21 +411,21 @@
   "rides": [
     {
       "id": "ride-90mnc57",
-      "title": "Touch Bowl",
+      "title": "Touch Bowl 2026 21st Annual",
       "date": "2026-03-14",
       "endDate": "2026-03-15",
       "meetPoint": "",
       "meetTime": "",
       "kickstands": "",
-      "destination": "",
+      "destination": "Chegutu",
       "cost": "",
       "type": "Rally",
       "host": "Guest club",
       "organiser": "",
       "organiserPhone": "",
       "organiserEmail": "",
-      "poster": "",
-      "posterId": "",
+      "poster": "https://res.cloudinary.com/dgmk5yybs/image/upload/v1788855895/ride-posters/stomncph0jwdznq0xxza.jpg",
+      "posterId": "ride-posters/stomncph0jwdznq0xxza",
       "notes": ""
     },
     {
