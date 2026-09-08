@@ -731,6 +731,25 @@
       "poster": "https://res.cloudinary.com/dgmk5yybs/image/upload/v1788857157/ride-posters/lrhm1irnx1lssgxrvrgo.jpg",
       "posterId": "ride-posters/lrhm1irnx1lssgxrvrgo",
       "notes": ""
+    },
+    {
+      "id": "ride-0dz02ar",
+      "title": "Annual Run 2024",
+      "date": "2024-10-05",
+      "endDate": "",
+      "meetPoint": "Msasa Glow Service Station",
+      "meetTime": "09:00",
+      "kickstands": "09:30",
+      "destination": "Marondera Coffee Shop",
+      "cost": "",
+      "type": "Other",
+      "host": "Phumulani",
+      "organiser": "Phumulani",
+      "organiserPhone": "+263778174796",
+      "organiserEmail": "",
+      "poster": "https://res.cloudinary.com/dgmk5yybs/image/upload/v1788857281/ride-posters/vujx9zsbh85ivherv340.jpg",
+      "posterId": "ride-posters/vujx9zsbh85ivherv340",
+      "notes": ""
     }
   ],
   "members": [
