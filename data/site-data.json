@@ -410,25 +410,6 @@
   "gear": [],
   "rides": [
     {
-      "id": "ride-dvoy6jf",
-      "title": "Ubuntu",
-      "date": "2026-01-24",
-      "endDate": "2026-01-25",
-      "meetPoint": "",
-      "meetTime": "",
-      "kickstands": "",
-      "destination": "",
-      "cost": "",
-      "type": "Rally",
-      "host": "Guest club",
-      "organiser": "",
-      "organiserPhone": "",
-      "organiserEmail": "",
-      "poster": "",
-      "posterId": "",
-      "notes": ""
-    },
-    {
       "id": "ride-fwmjtjm",
       "title": "Gold Run",
       "date": "2026-02-14",
