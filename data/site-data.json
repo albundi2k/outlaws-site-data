@@ -750,6 +750,25 @@
       "poster": "https://res.cloudinary.com/dgmk5yybs/image/upload/v1788857281/ride-posters/vujx9zsbh85ivherv340.jpg",
       "posterId": "ride-posters/vujx9zsbh85ivherv340",
       "notes": ""
+    },
+    {
+      "id": "ride-5np23lc",
+      "title": "Honde Valley 2024",
+      "date": "2024-07-05",
+      "endDate": "2024-07-07",
+      "meetPoint": "Msasa Glow Service Station",
+      "meetTime": "08:00",
+      "kickstands": "08:30",
+      "destination": "Hauna Town, Honde Valley",
+      "cost": "",
+      "type": "Rally",
+      "host": "Peace",
+      "organiser": "Peace",
+      "organiserPhone": "+263772121687",
+      "organiserEmail": "",
+      "poster": "https://res.cloudinary.com/dgmk5yybs/image/upload/v1788857398/ride-posters/idbwpk0epsomyz3kfpr3.jpg",
+      "posterId": "ride-posters/idbwpk0epsomyz3kfpr3",
+      "notes": ""
     }
   ],
   "members": [
