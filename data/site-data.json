@@ -769,6 +769,25 @@
       "poster": "https://res.cloudinary.com/dgmk5yybs/image/upload/v1788857398/ride-posters/idbwpk0epsomyz3kfpr3.jpg",
       "posterId": "ride-posters/idbwpk0epsomyz3kfpr3",
       "notes": ""
+    },
+    {
+      "id": "ride-kxi64bo",
+      "title": "Test",
+      "date": "2026-09-09",
+      "endDate": "2026-09-29",
+      "meetPoint": "here",
+      "meetTime": "08:00",
+      "kickstands": "08:01",
+      "destination": "there",
+      "cost": "10",
+      "type": "Rally",
+      "host": "Havoc Brothers",
+      "organiser": "Havoc Brothers",
+      "organiserPhone": "",
+      "organiserEmail": "",
+      "poster": "",
+      "posterId": "",
+      "notes": ""
     }
   ],
   "members": [
