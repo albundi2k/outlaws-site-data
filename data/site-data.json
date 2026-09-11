@@ -2007,6 +2007,19 @@
   ],
   "members": [
     {
+      "id": "sharon-swarts",
+      "name": "Sharon Swarts",
+      "nickname": "",
+      "bikes": [],
+      "bio": "",
+      "memberSince": "2026",
+      "badges": [],
+      "office": "",
+      "rides": [],
+      "coverPublicId": null,
+      "photoOrder": []
+    },
+    {
       "id": "etienne-swarts",
       "name": "Etienne Swarts",
       "nickname": "",
