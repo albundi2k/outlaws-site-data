@@ -374,9 +374,14 @@
     },
     {
       "role": "secretary",
-      "name": "",
-      "handle": "",
-      "bikes": [],
+      "name": "Alan Bester",
+      "handle": "Bundi",
+      "bikes": [
+        {
+          "name": "Harley Davidson Fat Bob 114",
+          "nickname": "Daisy"
+        }
+      ],
       "testimonial": "",
       "tagline": "",
       "coverPublicId": null,
@@ -2118,7 +2123,7 @@
       "bio": "It is what it is",
       "memberSince": "2026",
       "badges": [],
-      "office": "",
+      "office": "secretary",
       "rides": [],
       "coverPublicId": null,
       "photoOrder": [
