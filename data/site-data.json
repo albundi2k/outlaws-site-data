@@ -2124,7 +2124,14 @@
       "memberSince": "2026",
       "badges": [],
       "office": "secretary",
-      "rides": [],
+      "rides": [
+        {
+          "title": "Test 1",
+          "year": "",
+          "img": "",
+          "publicId": ""
+        }
+      ],
       "coverPublicId": null,
       "photoOrder": [
         "member-alan-bester/jyjseaewqr7mcyadxj5j",
