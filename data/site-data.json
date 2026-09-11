@@ -2133,7 +2133,13 @@
         },
         {
           "title": "Tete",
-          "year": "202",
+          "year": "2026",
+          "img": "",
+          "publicId": ""
+        },
+        {
+          "title": "",
+          "year": "",
           "img": "",
           "publicId": ""
         }
