@@ -2136,7 +2136,7 @@
       "office": "",
       "tagline": "",
       "founding": false,
-      "fallen": false,
+      "fallen": true,
       "fallenYear": "",
       "rides": [],
       "coverPublicId": null,
