@@ -5,6 +5,7 @@
       "date": "May 2026",
       "location": "Kariba",
       "tag": "nyami-nyami",
+      "rideId": "",
       "coverPublicId": null,
       "photoOrder": [
         "nyami-nyami/ibcelg6l2hmvkifwqszx",
@@ -269,6 +270,7 @@
       "date": "17 May 2026",
       "location": "Harare",
       "tag": "trader-horn",
+      "rideId": "",
       "coverPublicId": "trader-horn/nxd2z2vybvriwzlyrgym",
       "photoOrder": [
         "trader-horn/eiwp9nirzgmzth8jughs",
@@ -356,7 +358,7 @@
       "handle": "",
       "bikes": [],
       "testimonial": "",
-      "tagline": "",
+      "tagline": "The Boss Man — when the hammer falls, it falls hard.",
       "coverPublicId": "member-fadi-khatoun/y2jw57qgndo9updxm91x",
       "photoOrder": []
     },
@@ -366,7 +368,7 @@
       "handle": "",
       "bikes": [],
       "testimonial": "",
-      "tagline": "",
+      "tagline": "The Boss when the Boss isn’t. Same hammer, shorter fuse.",
       "coverPublicId": "member-richard-dos-santos/lscdissr83kyrtxlrnvr",
       "photoOrder": [
         "officer-vice-president/ebdtuqwadrmvbucdgpwl"
@@ -382,8 +384,8 @@
           "nickname": "Daisy"
         }
       ],
-      "testimonial": "",
-      "tagline": "",
+      "testimonial": "It is what it is",
+      "tagline": "Writes it all down. Yes, that too.",
       "coverPublicId": "member-alan-bester/jyjseaewqr7mcyadxj5j",
       "photoOrder": []
     },
@@ -393,7 +395,7 @@
       "handle": "",
       "bikes": [],
       "testimonial": "",
-      "tagline": "",
+      "tagline": "Holds the money. Remembers who still owes.",
       "coverPublicId": "member-lucky-chitima/xxfnoe4rntfn43dzs4hx",
       "photoOrder": []
     },
@@ -403,7 +405,7 @@
       "handle": "",
       "bikes": [],
       "testimonial": "",
-      "tagline": "",
+      "tagline": "Keeps the peace. Occasionally by removing it.",
       "coverPublicId": null,
       "photoOrder": []
     },
@@ -440,6 +442,7 @@
       "notes": "",
       "contacts": [],
       "entry": null,
+      "meeting": null,
       "source": ""
     },
     {
@@ -462,6 +465,7 @@
       "notes": "",
       "contacts": [],
       "entry": null,
+      "meeting": null,
       "source": ""
     },
     {
@@ -484,6 +488,7 @@
       "notes": "",
       "contacts": [],
       "entry": null,
+      "meeting": null,
       "source": ""
     },
     {
@@ -506,6 +511,7 @@
       "notes": "The Longest Consecutively Running Motorcycle Event in AFRICA!!!",
       "contacts": [],
       "entry": null,
+      "meeting": null,
       "source": ""
     },
     {
@@ -528,6 +534,7 @@
       "notes": "",
       "contacts": [],
       "entry": null,
+      "meeting": null,
       "source": ""
     },
     {
@@ -550,6 +557,7 @@
       "notes": "",
       "contacts": [],
       "entry": null,
+      "meeting": null,
       "source": ""
     },
     {
@@ -572,6 +580,7 @@
       "notes": "Baron of Beef on the spit and Ice cold beers",
       "contacts": [],
       "entry": null,
+      "meeting": null,
       "source": ""
     },
     {
@@ -594,6 +603,7 @@
       "notes": "Lunch and Speeches @1230hrs , Depart Back to Harare 1400hrs.",
       "contacts": [],
       "entry": null,
+      "meeting": null,
       "source": ""
     },
     {
@@ -616,6 +626,7 @@
       "notes": "",
       "contacts": [],
       "entry": null,
+      "meeting": null,
       "source": ""
     },
     {
@@ -638,6 +649,7 @@
       "notes": "Annual Nyami Nyami run, book as required.",
       "contacts": [],
       "entry": null,
+      "meeting": null,
       "source": ""
     },
     {
@@ -660,6 +672,7 @@
       "notes": "One Road , One Spirit, One family",
       "contacts": [],
       "entry": null,
+      "meeting": null,
       "source": ""
     },
     {
@@ -682,6 +695,7 @@
       "notes": "Free Entrance to all Bikers",
       "contacts": [],
       "entry": null,
+      "meeting": null,
       "source": ""
     },
     {
@@ -704,6 +718,7 @@
       "notes": "",
       "contacts": [],
       "entry": null,
+      "meeting": null,
       "source": ""
     },
     {
@@ -726,6 +741,7 @@
       "notes": "",
       "contacts": [],
       "entry": null,
+      "meeting": null,
       "source": ""
     },
     {
@@ -748,6 +764,7 @@
       "notes": "Theme is Vintage\nBest dressed man, woman and biker",
       "contacts": [],
       "entry": null,
+      "meeting": null,
       "source": ""
     },
     {
@@ -770,6 +787,7 @@
       "notes": "",
       "contacts": [],
       "entry": null,
+      "meeting": null,
       "source": ""
     },
     {
@@ -792,6 +810,7 @@
       "notes": "",
       "contacts": [],
       "entry": null,
+      "meeting": null,
       "source": ""
     },
     {
@@ -814,6 +833,7 @@
       "notes": "",
       "contacts": [],
       "entry": null,
+      "meeting": null,
       "source": ""
     },
     {
@@ -836,6 +856,7 @@
       "notes": "",
       "contacts": [],
       "entry": null,
+      "meeting": null,
       "source": ""
     },
     {
@@ -858,6 +879,7 @@
       "notes": "",
       "contacts": [],
       "entry": null,
+      "meeting": null,
       "source": "JULY 2026 MSZ Calendar.pdf"
     },
     {
@@ -880,6 +902,7 @@
       "notes": "",
       "contacts": [],
       "entry": null,
+      "meeting": null,
       "source": "JULY 2026 MSZ Calendar.pdf"
     },
     {
@@ -902,6 +925,7 @@
       "notes": "",
       "contacts": [],
       "entry": null,
+      "meeting": null,
       "source": "JULY 2026 MSZ Calendar.pdf"
     },
     {
@@ -924,6 +948,7 @@
       "notes": "",
       "contacts": [],
       "entry": null,
+      "meeting": null,
       "source": "JULY 2026 MSZ Calendar.pdf"
     },
     {
@@ -946,6 +971,7 @@
       "notes": "",
       "contacts": [],
       "entry": null,
+      "meeting": null,
       "source": "JULY 2026 MSZ Calendar.pdf"
     },
     {
@@ -968,6 +994,7 @@
       "notes": "",
       "contacts": [],
       "entry": null,
+      "meeting": null,
       "source": "JULY 2026 MSZ Calendar.pdf"
     },
     {
@@ -990,6 +1017,7 @@
       "notes": "",
       "contacts": [],
       "entry": null,
+      "meeting": null,
       "source": "JULY 2026 MSZ Calendar.pdf"
     },
     {
@@ -1012,6 +1040,7 @@
       "notes": "",
       "contacts": [],
       "entry": null,
+      "meeting": null,
       "source": "JULY 2026 MSZ Calendar.pdf"
     },
     {
@@ -1034,6 +1063,7 @@
       "notes": "",
       "contacts": [],
       "entry": null,
+      "meeting": null,
       "source": "JULY 2026 MSZ Calendar.pdf"
     },
     {
@@ -1056,6 +1086,7 @@
       "notes": "",
       "contacts": [],
       "entry": null,
+      "meeting": null,
       "source": "JULY 2026 MSZ Calendar.pdf"
     },
     {
@@ -1078,6 +1109,7 @@
       "notes": "",
       "contacts": [],
       "entry": null,
+      "meeting": null,
       "source": "JULY 2026 MSZ Calendar.pdf"
     },
     {
@@ -1100,6 +1132,7 @@
       "notes": "",
       "contacts": [],
       "entry": null,
+      "meeting": null,
       "source": "JULY 2026 MSZ Calendar.pdf"
     },
     {
@@ -1122,6 +1155,7 @@
       "notes": "",
       "contacts": [],
       "entry": null,
+      "meeting": null,
       "source": "JULY 2026 MSZ Calendar.pdf"
     },
     {
@@ -1144,6 +1178,7 @@
       "notes": "",
       "contacts": [],
       "entry": null,
+      "meeting": null,
       "source": "JULY 2026 MSZ Calendar.pdf"
     },
     {
@@ -1166,6 +1201,7 @@
       "notes": "",
       "contacts": [],
       "entry": null,
+      "meeting": null,
       "source": "JULY 2026 MSZ Calendar.pdf"
     },
     {
@@ -1188,6 +1224,7 @@
       "notes": "",
       "contacts": [],
       "entry": null,
+      "meeting": null,
       "source": "JULY 2026 MSZ Calendar.pdf"
     },
     {
@@ -1210,6 +1247,7 @@
       "notes": "",
       "contacts": [],
       "entry": null,
+      "meeting": null,
       "source": "JULY 2026 MSZ Calendar.pdf"
     },
     {
@@ -1232,6 +1270,7 @@
       "notes": "",
       "contacts": [],
       "entry": null,
+      "meeting": null,
       "source": "JULY 2026 MSZ Calendar.pdf"
     },
     {
@@ -1254,6 +1293,7 @@
       "notes": "",
       "contacts": [],
       "entry": null,
+      "meeting": null,
       "source": "JULY 2026 MSZ Calendar.pdf"
     },
     {
@@ -1276,6 +1316,7 @@
       "notes": "",
       "contacts": [],
       "entry": null,
+      "meeting": null,
       "source": "JULY 2026 MSZ Calendar.pdf"
     },
     {
@@ -1298,6 +1339,7 @@
       "notes": "",
       "contacts": [],
       "entry": null,
+      "meeting": null,
       "source": "JULY 2026 MSZ Calendar.pdf"
     },
     {
@@ -1320,6 +1362,7 @@
       "notes": "",
       "contacts": [],
       "entry": null,
+      "meeting": null,
       "source": "JULY 2026 MSZ Calendar.pdf"
     },
     {
@@ -1342,6 +1385,7 @@
       "notes": "",
       "contacts": [],
       "entry": null,
+      "meeting": null,
       "source": "JULY 2026 MSZ Calendar.pdf"
     },
     {
@@ -1364,6 +1408,7 @@
       "notes": "",
       "contacts": [],
       "entry": null,
+      "meeting": null,
       "source": "JULY 2026 MSZ Calendar.pdf"
     },
     {
@@ -1386,6 +1431,7 @@
       "notes": "",
       "contacts": [],
       "entry": null,
+      "meeting": null,
       "source": "JULY 2026 MSZ Calendar.pdf"
     },
     {
@@ -1408,6 +1454,7 @@
       "notes": "",
       "contacts": [],
       "entry": null,
+      "meeting": null,
       "source": "JULY 2026 MSZ Calendar.pdf"
     },
     {
@@ -1430,6 +1477,7 @@
       "notes": "",
       "contacts": [],
       "entry": null,
+      "meeting": null,
       "source": "JULY 2026 MSZ Calendar.pdf"
     },
     {
@@ -1452,6 +1500,7 @@
       "notes": "",
       "contacts": [],
       "entry": null,
+      "meeting": null,
       "source": "JULY 2026 MSZ Calendar.pdf"
     },
     {
@@ -1474,6 +1523,7 @@
       "notes": "",
       "contacts": [],
       "entry": null,
+      "meeting": null,
       "source": "JULY 2026 MSZ Calendar.pdf"
     },
     {
@@ -1496,6 +1546,7 @@
       "notes": "",
       "contacts": [],
       "entry": null,
+      "meeting": null,
       "source": "JULY 2026 MSZ Calendar.pdf"
     },
     {
@@ -1518,6 +1569,7 @@
       "notes": "",
       "contacts": [],
       "entry": null,
+      "meeting": null,
       "source": "JULY 2026 MSZ Calendar.pdf"
     },
     {
@@ -1540,6 +1592,7 @@
       "notes": "",
       "contacts": [],
       "entry": null,
+      "meeting": null,
       "source": "JULY 2026 MSZ Calendar.pdf"
     },
     {
@@ -1562,6 +1615,7 @@
       "notes": "",
       "contacts": [],
       "entry": null,
+      "meeting": null,
       "source": "JULY 2026 MSZ Calendar.pdf"
     },
     {
@@ -1584,6 +1638,7 @@
       "notes": "",
       "contacts": [],
       "entry": null,
+      "meeting": null,
       "source": "JULY 2026 MSZ Calendar.pdf"
     },
     {
@@ -1606,6 +1661,7 @@
       "notes": "",
       "contacts": [],
       "entry": null,
+      "meeting": null,
       "source": "JULY 2026 MSZ Calendar.pdf"
     },
     {
@@ -1628,6 +1684,7 @@
       "notes": "",
       "contacts": [],
       "entry": null,
+      "meeting": null,
       "source": "JULY 2026 MSZ Calendar.pdf"
     },
     {
@@ -1650,6 +1707,7 @@
       "notes": "",
       "contacts": [],
       "entry": null,
+      "meeting": null,
       "source": "JULY 2026 MSZ Calendar.pdf"
     },
     {
@@ -1672,6 +1730,7 @@
       "notes": "",
       "contacts": [],
       "entry": null,
+      "meeting": null,
       "source": "JULY 2026 MSZ Calendar.pdf"
     },
     {
@@ -1694,6 +1753,7 @@
       "notes": "",
       "contacts": [],
       "entry": null,
+      "meeting": null,
       "source": "JULY 2026 MSZ Calendar.pdf"
     },
     {
@@ -1716,6 +1776,7 @@
       "notes": "",
       "contacts": [],
       "entry": null,
+      "meeting": null,
       "source": "JULY 2026 MSZ Calendar.pdf"
     },
     {
@@ -1738,6 +1799,7 @@
       "notes": "",
       "contacts": [],
       "entry": null,
+      "meeting": null,
       "source": "JULY 2026 MSZ Calendar.pdf"
     },
     {
@@ -1760,6 +1822,7 @@
       "notes": "",
       "contacts": [],
       "entry": null,
+      "meeting": null,
       "source": "JULY 2026 MSZ Calendar.pdf"
     },
     {
@@ -1782,6 +1845,7 @@
       "notes": "",
       "contacts": [],
       "entry": null,
+      "meeting": null,
       "source": "JULY 2026 MSZ Calendar.pdf"
     },
     {
@@ -1804,6 +1868,7 @@
       "notes": "",
       "contacts": [],
       "entry": null,
+      "meeting": null,
       "source": "JULY 2026 MSZ Calendar.pdf"
     },
     {
@@ -1826,6 +1891,7 @@
       "notes": "",
       "contacts": [],
       "entry": null,
+      "meeting": null,
       "source": "JULY 2026 MSZ Calendar.pdf"
     },
     {
@@ -1848,6 +1914,7 @@
       "notes": "",
       "contacts": [],
       "entry": null,
+      "meeting": null,
       "source": "JULY 2026 MSZ Calendar.pdf"
     },
     {
@@ -1870,6 +1937,7 @@
       "notes": "",
       "contacts": [],
       "entry": null,
+      "meeting": null,
       "source": "JULY 2026 MSZ Calendar.pdf"
     },
     {
@@ -1892,6 +1960,7 @@
       "notes": "",
       "contacts": [],
       "entry": null,
+      "meeting": null,
       "source": "JULY 2026 MSZ Calendar.pdf"
     },
     {
@@ -1914,6 +1983,7 @@
       "notes": "",
       "contacts": [],
       "entry": null,
+      "meeting": null,
       "source": "JULY 2026 MSZ Calendar.pdf"
     },
     {
@@ -1936,6 +2006,7 @@
       "notes": "",
       "contacts": [],
       "entry": null,
+      "meeting": null,
       "source": "JULY 2026 MSZ Calendar.pdf"
     },
     {
@@ -1958,6 +2029,7 @@
       "notes": "",
       "contacts": [],
       "entry": null,
+      "meeting": null,
       "source": "JULY 2026 MSZ Calendar.pdf"
     },
     {
@@ -1980,6 +2052,7 @@
       "notes": "",
       "contacts": [],
       "entry": null,
+      "meeting": null,
       "source": "JULY 2026 MSZ Calendar.pdf"
     },
     {
@@ -2002,6 +2075,7 @@
       "notes": "",
       "contacts": [],
       "entry": null,
+      "meeting": null,
       "source": "JULY 2026 MSZ Calendar.pdf"
     },
     {
@@ -2024,6 +2098,7 @@
       "notes": "",
       "contacts": [],
       "entry": null,
+      "meeting": null,
       "source": ""
     },
     {
@@ -2046,10 +2121,27 @@
       "notes": "One ride, 5 stops, best hand wins",
       "contacts": [],
       "entry": null,
+      "meeting": null,
       "source": ""
     }
   ],
   "members": [
+    {
+      "id": "felix-ormaechea",
+      "name": "Felix Ormaechea",
+      "nickname": "",
+      "bikes": [],
+      "bio": "",
+      "memberSince": "2026",
+      "office": "",
+      "tagline": "",
+      "founding": false,
+      "fallen": false,
+      "fallenYear": "",
+      "rides": [],
+      "coverPublicId": null,
+      "photoOrder": []
+    },
     {
       "id": "sharon-swarts",
       "name": "Sharon Swarts",
@@ -2057,8 +2149,11 @@
       "bikes": [],
       "bio": "",
       "memberSince": "2026",
-      "badges": [],
       "office": "",
+      "tagline": "",
+      "founding": false,
+      "fallen": false,
+      "fallenYear": "",
       "rides": [],
       "coverPublicId": null,
       "photoOrder": []
@@ -2070,8 +2165,11 @@
       "bikes": [],
       "bio": "",
       "memberSince": "2026",
-      "badges": [],
       "office": "",
+      "tagline": "",
+      "founding": false,
+      "fallen": false,
+      "fallenYear": "",
       "rides": [],
       "coverPublicId": null,
       "photoOrder": []
@@ -2083,8 +2181,11 @@
       "bikes": [],
       "bio": "",
       "memberSince": "2026",
-      "badges": [],
       "office": "",
+      "tagline": "",
+      "founding": false,
+      "fallen": false,
+      "fallenYear": "",
       "rides": [],
       "coverPublicId": null,
       "photoOrder": []
@@ -2096,10 +2197,11 @@
       "bikes": [],
       "bio": "",
       "memberSince": "2021",
-      "badges": [
-        "Founding-Member"
-      ],
       "office": "president",
+      "tagline": "The Boss Man — when the hammer falls, it falls hard.",
+      "founding": true,
+      "fallen": false,
+      "fallenYear": "",
       "rides": [],
       "coverPublicId": null,
       "photoOrder": [
@@ -2114,10 +2216,11 @@
       "bikes": [],
       "bio": "",
       "memberSince": "2021",
-      "badges": [
-        "Founding-Member"
-      ],
       "office": "vice-president",
+      "tagline": "The Boss when the Boss isn’t. Same hammer, shorter fuse.",
+      "founding": true,
+      "fallen": false,
+      "fallenYear": "",
       "rides": [],
       "coverPublicId": null,
       "photoOrder": [
@@ -2132,8 +2235,11 @@
       "bikes": [],
       "bio": "",
       "memberSince": "2026",
-      "badges": [],
       "office": "",
+      "tagline": "",
+      "founding": false,
+      "fallen": false,
+      "fallenYear": "",
       "rides": [],
       "coverPublicId": null,
       "photoOrder": []
@@ -2145,8 +2251,11 @@
       "bikes": [],
       "bio": "",
       "memberSince": "2026",
-      "badges": [],
       "office": "treasurer",
+      "tagline": "Holds the money. Remembers who still owes.",
+      "founding": false,
+      "fallen": false,
+      "fallenYear": "",
       "rides": [],
       "coverPublicId": null,
       "photoOrder": [
@@ -2161,8 +2270,11 @@
       "bikes": [],
       "bio": "",
       "memberSince": "2026",
-      "badges": [],
       "office": "sergeant-at-arms",
+      "tagline": "Keeps the peace. Occasionally by removing it.",
+      "founding": false,
+      "fallen": false,
+      "fallenYear": "",
       "rides": [],
       "coverPublicId": null,
       "photoOrder": []
@@ -2174,8 +2286,11 @@
       "bikes": [],
       "bio": "",
       "memberSince": "2026",
-      "badges": [],
       "office": "",
+      "tagline": "",
+      "founding": false,
+      "fallen": false,
+      "fallenYear": "",
       "rides": [],
       "coverPublicId": null,
       "photoOrder": []
@@ -2187,8 +2302,11 @@
       "bikes": [],
       "bio": "",
       "memberSince": "2026",
-      "badges": [],
       "office": "",
+      "tagline": "",
+      "founding": false,
+      "fallen": false,
+      "fallenYear": "",
       "rides": [],
       "coverPublicId": null,
       "photoOrder": []
@@ -2205,8 +2323,11 @@
       ],
       "bio": "It is what it is",
       "memberSince": "2026",
-      "badges": [],
       "office": "secretary",
+      "tagline": "Writes it all down. Yes, that too.",
+      "founding": false,
+      "fallen": false,
+      "fallenYear": "",
       "rides": [
         {
           "title": "Ubuntu",
