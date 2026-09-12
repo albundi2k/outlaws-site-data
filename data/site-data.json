@@ -422,6 +422,14 @@
   ],
   "gear": [
     {
+      "slug": "bikers-code-t-shirt-art",
+      "name": "Bikers Code T-Shirt Art",
+      "price": "",
+      "description": "",
+      "coverPublicId": null,
+      "photoOrder": []
+    },
+    {
       "slug": "outlaws-shit-t-shirt-art",
       "name": "Outlaws Shit T-Shirt Art",
       "price": "",
