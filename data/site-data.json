@@ -411,11 +411,11 @@
     },
     {
       "role": "road-captain",
-      "name": "",
-      "handle": "",
+      "name": "Joseph Taghlian",
+      "handle": "Pappa Joe",
       "bikes": [],
       "testimonial": "",
-      "tagline": "",
+      "tagline": "Picks the road, the fuel stop and the pub — in that order.",
       "coverPublicId": null,
       "photoOrder": []
     }
@@ -2328,8 +2328,8 @@
       "bikes": [],
       "bio": "",
       "memberSince": "2021",
-      "office": "",
-      "tagline": "",
+      "office": "road-captain",
+      "tagline": "Picks the road, the fuel stop and the pub — in that order.",
       "founding": true,
       "fallen": false,
       "fallenKind": "",
