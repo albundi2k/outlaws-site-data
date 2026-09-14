@@ -2241,8 +2241,10 @@
       "fallenYear": "",
       "rides": [],
       "coverPublicId": "member-fadi-khatoun/dx6juh4rkkjjmtnzb3v8",
-      "officerCoverPublicId": "member-fadi-khatoun/dx6juh4rkkjjmtnzb3v8",
+      "officerCoverPublicId": null,
       "photoOrder": [
+        "member-fadi-khatoun/y2jw57qgndo9updxm91x",
+        "member-fadi-khatoun/xtblstamud41gdpjhxjn",
         "member-fadi-khatoun/dx6juh4rkkjjmtnzb3v8"
       ]
     },
@@ -2262,7 +2264,7 @@
       "fallenYear": "",
       "rides": [],
       "coverPublicId": "member-richard-dos-santos/dgvv6kqtpemxaviluwvc",
-      "officerCoverPublicId": "member-richard-dos-santos/kdpenzu4uwmmmjtafji3",
+      "officerCoverPublicId": null,
       "photoOrder": [
         "member-richard-dos-santos/kdpenzu4uwmmmjtafji3",
         "member-richard-dos-santos/dgvv6kqtpemxaviluwvc"
@@ -2275,8 +2277,8 @@
       "bikes": [],
       "bio": "",
       "memberSince": "2026",
-      "office": "",
-      "tagline": "",
+      "office": "council",
+      "tagline": "Earned the seat. Keeps the vote. Skips the paperwork.",
       "founding": false,
       "fallen": false,
       "fallenKind": "",
