@@ -2164,6 +2164,7 @@
       "rides": [],
       "coverPublicId": "member-felix-ormaechea/rwlx8encunljf9jdqlzx",
       "officerCoverPublicId": null,
+      "focus": {},
       "photoOrder": [
         "member-felix-ormaechea/rwlx8encunljf9jdqlzx"
       ]
@@ -2185,6 +2186,7 @@
       "rides": [],
       "coverPublicId": null,
       "officerCoverPublicId": null,
+      "focus": {},
       "photoOrder": []
     },
     {
@@ -2204,6 +2206,7 @@
       "rides": [],
       "coverPublicId": null,
       "officerCoverPublicId": null,
+      "focus": {},
       "photoOrder": []
     },
     {
@@ -2223,6 +2226,7 @@
       "rides": [],
       "coverPublicId": null,
       "officerCoverPublicId": null,
+      "focus": {},
       "photoOrder": []
     },
     {
@@ -2242,6 +2246,7 @@
       "rides": [],
       "coverPublicId": "member-fadi-khatoun/dx6juh4rkkjjmtnzb3v8",
       "officerCoverPublicId": null,
+      "focus": {},
       "photoOrder": [
         "member-fadi-khatoun/y2jw57qgndo9updxm91x",
         "member-fadi-khatoun/xtblstamud41gdpjhxjn",
@@ -2263,8 +2268,9 @@
       "fallenDate": "",
       "fallenYear": "",
       "rides": [],
-      "coverPublicId": "member-richard-dos-santos/dgvv6kqtpemxaviluwvc",
-      "officerCoverPublicId": null,
+      "coverPublicId": "member-richard-dos-santos/kdpenzu4uwmmmjtafji3",
+      "officerCoverPublicId": "member-richard-dos-santos/dgvv6kqtpemxaviluwvc",
+      "focus": {},
       "photoOrder": [
         "member-richard-dos-santos/kdpenzu4uwmmmjtafji3",
         "member-richard-dos-santos/dgvv6kqtpemxaviluwvc"
@@ -2287,6 +2293,7 @@
       "rides": [],
       "coverPublicId": "member-valdano-brown/jwbj3pzlm0kookw5acyd",
       "officerCoverPublicId": "member-valdano-brown/tjnhle2azpf6f9yyrzjy",
+      "focus": {},
       "photoOrder": [
         "member-valdano-brown/tjnhle2azpf6f9yyrzjy",
         "member-valdano-brown/jwbj3pzlm0kookw5acyd"
@@ -2309,6 +2316,7 @@
       "rides": [],
       "coverPublicId": null,
       "officerCoverPublicId": null,
+      "focus": {},
       "photoOrder": [
         "member-lucky-chitima/xxfnoe4rntfn43dzs4hx",
         "member-lucky-chitima/tqvduqvqmaf6iqug0rtb"
@@ -2331,6 +2339,7 @@
       "rides": [],
       "coverPublicId": null,
       "officerCoverPublicId": null,
+      "focus": {},
       "photoOrder": []
     },
     {
@@ -2350,6 +2359,7 @@
       "rides": [],
       "coverPublicId": null,
       "officerCoverPublicId": null,
+      "focus": {},
       "photoOrder": []
     },
     {
@@ -2369,6 +2379,7 @@
       "rides": [],
       "coverPublicId": null,
       "officerCoverPublicId": null,
+      "focus": {},
       "photoOrder": []
     },
     {
@@ -2418,6 +2429,7 @@
       ],
       "coverPublicId": "member-alan-bester/jyjseaewqr7mcyadxj5j",
       "officerCoverPublicId": null,
+      "focus": {},
       "photoOrder": [
         "member-alan-bester/jyjseaewqr7mcyadxj5j",
         "member-alan-bester/lwmujaevoe3j8e5irbi1"
