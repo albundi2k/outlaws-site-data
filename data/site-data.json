@@ -2269,7 +2269,12 @@
       "rides": [],
       "coverPublicId": "member-fadi-khatoun/dx6juh4rkkjjmtnzb3v8",
       "officerCoverPublicId": null,
-      "focus": {},
+      "focus": {
+        "member-fadi-khatoun/dx6juh4rkkjjmtnzb3v8": {
+          "x": 0.5,
+          "y": 0.2813
+        }
+      },
       "photoOrder": [
         "member-fadi-khatoun/y2jw57qgndo9updxm91x",
         "member-fadi-khatoun/xtblstamud41gdpjhxjn",
