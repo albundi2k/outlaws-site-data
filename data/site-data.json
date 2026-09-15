@@ -2144,6 +2144,29 @@
       "entry": null,
       "meeting": null,
       "source": ""
+    },
+    {
+      "id": "ride-mtsdepx",
+      "title": "ED Birthday",
+      "date": "2026-09-15",
+      "endDate": "",
+      "meetPoint": "Herbet Chitepo, Netone",
+      "meetTime": "05:30",
+      "kickstands": "06:00",
+      "destination": "",
+      "cost": "",
+      "type": "Rally",
+      "host": "Guest club",
+      "organiser": "",
+      "organiserPhone": "",
+      "organiserEmail": "",
+      "poster": "https://res.cloudinary.com/dgmk5yybs/image/upload/v1789461430/ride-posters/fkr9zgl3znk18fgdt5nx.jpg",
+      "posterId": "ride-posters/fkr9zgl3znk18fgdt5nx",
+      "notes": "",
+      "contacts": [],
+      "entry": null,
+      "meeting": null,
+      "source": ""
     }
   ],
   "members": [
