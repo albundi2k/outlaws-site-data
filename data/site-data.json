@@ -2167,6 +2167,29 @@
       "entry": null,
       "meeting": null,
       "source": ""
+    },
+    {
+      "id": "ride-lq1o1db",
+      "title": "Live and Learn Rowing Regatta",
+      "date": "2026-09-20",
+      "endDate": "",
+      "meetPoint": "Mazowe Dam",
+      "meetTime": "08:00",
+      "kickstands": "",
+      "destination": "",
+      "cost": "Free Entry",
+      "type": "Other",
+      "host": "Guest club",
+      "organiser": "",
+      "organiserPhone": "",
+      "organiserEmail": "",
+      "poster": "https://res.cloudinary.com/dgmk5yybs/image/upload/v1789545430/ride-posters/pelb7gnbrigk9os3l3rd.jpg",
+      "posterId": "ride-posters/pelb7gnbrigk9os3l3rd",
+      "notes": "Bring the whole family",
+      "contacts": [],
+      "entry": null,
+      "meeting": null,
+      "source": ""
     }
   ],
   "members": [
