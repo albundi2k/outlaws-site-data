@@ -1,11 +1,24 @@
 {
   "memories": [
     {
+      "title": "ED Birthday",
+      "date": "2026-09-15",
+      "location": "Herbet Chitepo, Netone",
+      "tag": "ed-birthday",
+      "rideId": "ride-mtsdepx",
+      "noPoster": false,
+      "coverPublicId": null,
+      "photoOrder": [],
+      "photoMetadata": {},
+      "enhanceSlideshow": false
+    },
+    {
       "title": "Nyami Nyami",
       "date": "May 2026",
       "location": "Kariba",
       "tag": "nyami-nyami",
       "rideId": "",
+      "noPoster": false,
       "coverPublicId": null,
       "photoOrder": [
         "nyami-nyami/ibcelg6l2hmvkifwqszx",
@@ -271,6 +284,7 @@
       "location": "Harare",
       "tag": "trader-horn",
       "rideId": "",
+      "noPoster": false,
       "coverPublicId": "trader-horn/nxd2z2vybvriwzlyrgym",
       "photoOrder": [
         "trader-horn/eiwp9nirzgmzth8jughs",
