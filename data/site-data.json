@@ -674,7 +674,7 @@
     },
     {
       "role": "secretary",
-      "name": "Alan Bester",
+      "name": "Alan Keith Bester",
       "handle": "Bundi",
       "bikes": [
         {
@@ -3032,7 +3032,7 @@
     },
     {
       "id": "alan-bester",
-      "name": "Alan Bester",
+      "name": "Alan Keith Bester",
       "nickname": "Bundi",
       "bikes": [
         {
