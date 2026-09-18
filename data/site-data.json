@@ -2769,6 +2769,26 @@
   ],
   "members": [
     {
+      "id": "new-l47fme",
+      "name": "",
+      "nickname": "",
+      "bikes": [],
+      "bio": "",
+      "memberSince": "2026",
+      "office": "",
+      "tagline": "",
+      "founding": false,
+      "fallen": false,
+      "fallenKind": "",
+      "fallenDate": "",
+      "fallenYear": "",
+      "rides": [],
+      "coverPublicId": null,
+      "officerCoverPublicId": null,
+      "focus": {},
+      "photoOrder": []
+    },
+    {
       "id": "felix-ormaechea",
       "name": "Felix Ormaechea",
       "nickname": "",
