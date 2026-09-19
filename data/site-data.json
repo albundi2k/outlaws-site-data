@@ -2789,6 +2789,44 @@
       "entry": null,
       "meeting": null,
       "source": ""
+    },
+    {
+      "id": "ride-5yw1yd8",
+      "title": "Eastern Highlands Charity Loop 560km",
+      "date": "2026-09-05",
+      "endDate": "",
+      "meetPoint": "Redan",
+      "meetTime": "05:30",
+      "kickstands": "06:00",
+      "destination": "Nyanga",
+      "cost": "",
+      "type": "Club ride",
+      "host": "BMW Motorrad Club Zimbabwe",
+      "organiser": "BMW Motorrad Club Zimbabwe",
+      "organiserPhone": "",
+      "organiserEmail": "",
+      "poster": "https://res.cloudinary.com/dgmk5yybs/image/upload/v1789794666/ride-posters/zmaqubhfxdhc2teglnc0.jpg",
+      "posterId": "ride-posters/zmaqubhfxdhc2teglnc0",
+      "badge": "",
+      "badgeId": "",
+      "badgeOpen": "",
+      "badgeClose": "",
+      "notes": "Harare - Mutare 265km via A3 (rest stop)\nMutar - Nyanga 155km via A14 (Scenic ride , snacks and drinks)\nNyanga - Mutare - Nyanga (Ride back for welcome rest)",
+      "contacts": [
+        {
+          "name": "",
+          "phone": "0772552240",
+          "email": "bmwmotorradclubzim@gmail.com"
+        },
+        {
+          "name": "",
+          "phone": "0778174796",
+          "email": ""
+        }
+      ],
+      "entry": null,
+      "meeting": null,
+      "source": ""
     }
   ],
   "members": [
