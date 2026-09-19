@@ -943,16 +943,22 @@
       "type": "Rally",
       "host": "Guest club",
       "organiser": "",
-      "organiserPhone": "+258849336879",
+      "organiserPhone": "",
       "organiserEmail": "",
-      "poster": "https://res.cloudinary.com/dgmk5yybs/image/upload/v1788842942/ride-posters/blsipxqqg1zomcgkopl2.jpg",
-      "posterId": "ride-posters/blsipxqqg1zomcgkopl2",
+      "poster": "https://res.cloudinary.com/dgmk5yybs/image/upload/v1789793827/ride-posters/ljdr02ihrbiksbtyzvkk.jpg",
+      "posterId": "ride-posters/ljdr02ihrbiksbtyzvkk",
       "badge": "",
       "badgeId": "",
       "badgeOpen": "",
       "badgeClose": "",
       "notes": "",
-      "contacts": [],
+      "contacts": [
+        {
+          "name": "",
+          "phone": "+258849336879",
+          "email": ""
+        }
+      ],
       "entry": null,
       "meeting": null,
       "source": ""
