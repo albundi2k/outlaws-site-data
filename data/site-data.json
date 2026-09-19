@@ -970,16 +970,22 @@
       "type": "Rally",
       "host": "Havoc Brothers",
       "organiser": "Havoc Brothers",
-      "organiserPhone": "+263 772105246",
+      "organiserPhone": "",
       "organiserEmail": "",
-      "poster": "https://res.cloudinary.com/dgmk5yybs/image/upload/v1788856098/ride-posters/qcxth5jakiplsweb0rtg.jpg",
-      "posterId": "ride-posters/qcxth5jakiplsweb0rtg",
+      "poster": "https://res.cloudinary.com/dgmk5yybs/image/upload/v1789792911/ride-posters/bzqkvq2mef7ctrcijfo7.jpg",
+      "posterId": "ride-posters/bzqkvq2mef7ctrcijfo7",
       "badge": "",
       "badgeId": "",
       "badgeOpen": "",
       "badgeClose": "",
       "notes": "Annual Nyami Nyami run, book as required.",
-      "contacts": [],
+      "contacts": [
+        {
+          "name": "",
+          "phone": "+263 772105246",
+          "email": ""
+        }
+      ],
       "entry": null,
       "meeting": null,
       "source": ""
