@@ -1003,16 +1003,22 @@
       "type": "Rally",
       "host": "Ulysses Club Zimbabwe",
       "organiser": "Ulysses Club Zimbabwe",
-      "organiserPhone": "+263772329715",
+      "organiserPhone": "",
       "organiserEmail": "",
-      "poster": "https://res.cloudinary.com/dgmk5yybs/image/upload/v1788855693/ride-posters/yrhboicqr2z6ojoirymm.jpg",
-      "posterId": "ride-posters/yrhboicqr2z6ojoirymm",
+      "poster": "https://res.cloudinary.com/dgmk5yybs/image/upload/v1789792994/ride-posters/vp7fiqokqjpgdbymlbdw.jpg",
+      "posterId": "ride-posters/vp7fiqokqjpgdbymlbdw",
       "badge": "",
       "badgeId": "",
       "badgeOpen": "",
       "badgeClose": "",
       "notes": "One Road , One Spirit, One family",
-      "contacts": [],
+      "contacts": [
+        {
+          "name": "",
+          "phone": "+263772329715",
+          "email": ""
+        }
+      ],
       "entry": null,
       "meeting": null,
       "source": ""
