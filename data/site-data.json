@@ -674,11 +674,16 @@
     },
     {
       "role": "secretary",
-      "name": "",
-      "handle": "",
-      "bikes": [],
-      "testimonial": "",
-      "tagline": "",
+      "name": "Alan Keith Bester",
+      "handle": "Bundi",
+      "bikes": [
+        {
+          "name": "Harley Davidson Fat Bob 114",
+          "nickname": "Daisy"
+        }
+      ],
+      "testimonial": "It is what it is",
+      "tagline": "Writes it all down. Yes, that too.",
       "coverPublicId": "member-alan-bester/jyjseaewqr7mcyadxj5j",
       "photoOrder": []
     },
@@ -3059,6 +3064,53 @@
       "officerCoverPublicId": null,
       "focus": {},
       "photoOrder": []
+    },
+    {
+      "id": "alan-bester",
+      "name": "Alan Keith Bester",
+      "nickname": "Bundi",
+      "bikes": [
+        {
+          "name": "Harley Davidson Fat Bob 114",
+          "nickname": "Daisy"
+        }
+      ],
+      "bio": "It is what it is",
+      "memberSince": "2026",
+      "office": "secretary",
+      "tagline": "Writes it all down. Yes, that too.",
+      "founding": false,
+      "fallen": false,
+      "fallenKind": "",
+      "fallenDate": "",
+      "fallenYear": "",
+      "rides": [
+        {
+          "title": "Ubuntu",
+          "year": "2026",
+          "img": "",
+          "publicId": ""
+        },
+        {
+          "title": "Tete",
+          "year": "2026",
+          "img": "",
+          "publicId": ""
+        },
+        {
+          "title": "Nyami Nyami",
+          "year": "2026",
+          "img": "",
+          "publicId": ""
+        }
+      ],
+      "coverPublicId": "member-alan-bester/jyjseaewqr7mcyadxj5j",
+      "officerCoverPublicId": null,
+      "focus": {},
+      "photoOrder": [
+        "member-alan-bester/jyjseaewqr7mcyadxj5j",
+        "member-alan-bester/lwmujaevoe3j8e5irbi1"
+      ]
     }
   ]
 }
