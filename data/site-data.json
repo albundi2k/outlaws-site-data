@@ -8,8 +8,16 @@
       "rideId": "",
       "noPoster": false,
       "coverPublicId": null,
-      "photoOrder": [],
-      "photoMetadata": {},
+      "photoOrder": [
+        "test/z6rfaztukfnpm8ho4vk6"
+      ],
+      "photoMetadata": {
+        "test/z6rfaztukfnpm8ho4vk6": {
+          "name": "Gemini_Generated_Image_14inyr14inyr14in.jpg",
+          "seq": 1,
+          "part": null
+        }
+      },
       "enhanceSlideshow": true
     },
     {
