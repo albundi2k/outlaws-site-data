@@ -261,7 +261,9 @@
         "ed-birthday/iwvazclafbtmq8yin329": {
           "name": "2.93 - 15.mp4",
           "seq": 16,
-          "part": 15
+          "part": 15,
+          "dur": 47,
+          "reel": true
         },
         "ed-birthday/auan6kpau9maaopw8cwy": {
           "name": "2.93 - 16.mp4",
