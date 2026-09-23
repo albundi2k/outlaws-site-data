@@ -319,7 +319,9 @@
         "ed-birthday/vdkq4gulhltbfqidzhkl": {
           "name": "10.1.mp4",
           "seq": 25,
-          "part": null
+          "part": null,
+          "dur": 29.6,
+          "reel": true
         },
         "ed-birthday/hczwc4htiuqtfndyt4sf": {
           "name": "10.jpeg",
