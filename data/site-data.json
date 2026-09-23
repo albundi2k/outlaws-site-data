@@ -17,10 +17,18 @@
           "seq": 1,
           "part": null,
           "igPosted": "2026-09-22T08:18:47.802Z",
-          "igId": "18119962156991972"
+          "igId": "18119962156991972",
+          "reel": true
         }
       },
-      "enhanceSlideshow": true
+      "enhanceSlideshow": true,
+      "posterSeed": 0,
+      "endSeed": 0,
+      "posterCardId": "",
+      "endCardId": "",
+      "reelId": "",
+      "reelSig": "",
+      "igPosts": []
     },
     {
       "title": "ED Birthday",
@@ -316,7 +324,14 @@
           "part": null
         }
       },
-      "enhanceSlideshow": true
+      "enhanceSlideshow": true,
+      "posterSeed": 0,
+      "endSeed": 0,
+      "posterCardId": "",
+      "endCardId": "",
+      "reelId": "",
+      "reelSig": "",
+      "igPosts": []
     },
     {
       "title": "Nyami Nyami",
@@ -582,7 +597,14 @@
           "place": "Kariba, Mashonaland West Province"
         }
       },
-      "enhanceSlideshow": true
+      "enhanceSlideshow": true,
+      "posterSeed": 0,
+      "endSeed": 0,
+      "posterCardId": "",
+      "endCardId": "",
+      "reelId": "",
+      "reelSig": "",
+      "igPosts": []
     },
     {
       "title": "Trader Horn",
@@ -668,7 +690,14 @@
           "place": null
         }
       },
-      "enhanceSlideshow": true
+      "enhanceSlideshow": true,
+      "posterSeed": 0,
+      "endSeed": 0,
+      "posterCardId": "",
+      "endCardId": "",
+      "reelId": "",
+      "reelSig": "",
+      "igPosts": []
     }
   ],
   "officers": [
