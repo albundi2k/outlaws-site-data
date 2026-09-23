@@ -278,7 +278,8 @@
         "ed-birthday/mkn6pcgqvv9arvkwk4lx": {
           "name": "2.jpeg",
           "seq": 17,
-          "part": null
+          "part": null,
+          "reel": true
         },
         "ed-birthday/fsqt6nuybmxdmhsyugty": {
           "name": "3.jpeg",
