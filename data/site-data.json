@@ -303,7 +303,8 @@
         "ed-birthday/opf1hmqm5kumnyazsewl": {
           "name": "8.jpeg",
           "seq": 23,
-          "part": null
+          "part": null,
+          "reel": true
         },
         "ed-birthday/mytxixqcwcanfhokjjsd": {
           "name": "9.jpeg",
