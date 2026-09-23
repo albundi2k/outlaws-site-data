@@ -91,7 +91,9 @@
         "ed-birthday/cjeqzlq0bngt5vlahjyk": {
           "name": "1.mp4",
           "seq": 1,
-          "part": null
+          "part": null,
+          "dur": 22.1,
+          "reel": true
         },
         "ed-birthday/z5n52j3s1kd1rzziclak": {
           "name": "2.01 - 1.mp4",
