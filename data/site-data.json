@@ -123,7 +123,8 @@
         "ed-birthday/mfjjgv2vtlokfzbwnxks": {
           "name": "2.5.jpg",
           "seq": 6,
-          "part": null
+          "part": null,
+          "reel": true
         },
         "ed-birthday/c7lif5togcuhvt0fzdr7": {
           "name": "2.7.jpg",
