@@ -326,7 +326,7 @@
       },
       "enhanceSlideshow": true,
       "posterSeed": 0,
-      "endSeed": 0,
+      "endSeed": 1,
       "posterCardId": "",
       "endCardId": "",
       "reelId": "",
