@@ -154,7 +154,9 @@
         "ed-birthday/qged5h2dbtyuxhwaotf7": {
           "name": "2.61.mp4",
           "seq": 13,
-          "part": null
+          "part": null,
+          "dur": 26.7,
+          "reel": true
         },
         "ed-birthday/dkgo8skyjmdaoli6hgax": {
           "name": "2.91 - 1.mp4",
