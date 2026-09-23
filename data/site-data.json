@@ -329,7 +329,8 @@
         "ed-birthday/hczwc4htiuqtfndyt4sf": {
           "name": "10.jpeg",
           "seq": 26,
-          "part": null
+          "part": null,
+          "reel": true
         },
         "ed-birthday/ahd5loklfeye24ee75fv": {
           "name": "11.jpeg",
