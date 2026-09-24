@@ -876,14 +876,20 @@
       "organiserPhone": "",
       "organiserEmail": "",
       "createdBy": "",
-      "poster": "",
-      "posterId": "",
+      "poster": "https://res.cloudinary.com/dgmk5yybs/image/upload/v1790241624/ride-posters/rlfaqwjxntppjvfhbocl.jpg",
+      "posterId": "ride-posters/rlfaqwjxntppjvfhbocl",
       "badge": "",
       "badgeId": "",
       "badgeOpen": "",
       "badgeClose": "",
-      "notes": "The Longest Consecutively Running Motorcycle Event in AFRICA!!!",
-      "contacts": [],
+      "notes": "The Longest Consecutively Running Motorcycle Event in AFRICA!!!\n\nJoin us in the Eastern Highlands for an unforgattble weekend of mountain passes, cold streams and great company",
+      "contacts": [
+        {
+          "name": "Shelley",
+          "phone": "+263772105246",
+          "email": "shelley@wgbkinsey.co.zw"
+        }
+      ],
       "entry": null,
       "meeting": null,
       "source": ""
