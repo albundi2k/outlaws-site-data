@@ -3290,7 +3290,7 @@
   "settings": {
     "kit": [
       {
-        "name": "Vest + colours + patches",
+        "name": "Vest",
         "cost": 250,
         "standard": true
       },
@@ -3298,6 +3298,16 @@
         "name": "Cozy",
         "cost": 0,
         "standard": true
+      },
+      {
+        "name": "Colours",
+        "cost": 4,
+        "standard": false
+      },
+      {
+        "name": "Patches",
+        "cost": 0,
+        "standard": false
       }
     ],
     "charges": [
