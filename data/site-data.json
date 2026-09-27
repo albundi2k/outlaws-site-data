@@ -311,6 +311,7 @@
       "enhanceSlideshow": true,
       "posterSeed": 0,
       "endSeed": 2,
+      "reelSilent": false,
       "posterCardId": "",
       "endCardId": "",
       "reelId": "",
@@ -584,6 +585,7 @@
       "enhanceSlideshow": true,
       "posterSeed": 0,
       "endSeed": 0,
+      "reelSilent": false,
       "posterCardId": "",
       "endCardId": "",
       "reelId": "",
@@ -677,6 +679,7 @@
       "enhanceSlideshow": true,
       "posterSeed": 0,
       "endSeed": 0,
+      "reelSilent": false,
       "posterCardId": "",
       "endCardId": "",
       "reelId": "",
@@ -762,7 +765,12 @@
       "coverPublicId": null,
       "photoOrder": [
         "gear-bikers-code-t-shirt-art/jgrzzq2ospe20yeir77j"
-      ]
+      ],
+      "kind": "item",
+      "audience": "supporter",
+      "showOnGear": true,
+      "sizeChart": "",
+      "contents": ""
     },
     {
       "slug": "outlaws-shit-t-shirt-art",
@@ -772,7 +780,12 @@
       "coverPublicId": null,
       "photoOrder": [
         "gear-outlaws-shit-t-shirt-art/bykoykygc0bk5upv4gvj"
-      ]
+      ],
+      "kind": "item",
+      "audience": "members",
+      "showOnGear": true,
+      "sizeChart": "",
+      "contents": ""
     }
   ],
   "rides": [
@@ -3263,19 +3276,22 @@
           "title": "Ubuntu",
           "year": "2026",
           "img": "",
-          "publicId": ""
+          "publicId": "",
+          "rallyId": ""
         },
         {
           "title": "Tete",
           "year": "2026",
           "img": "",
-          "publicId": ""
+          "publicId": "",
+          "rallyId": ""
         },
         {
           "title": "Nyami Nyami",
           "year": "2026",
           "img": "",
-          "publicId": ""
+          "publicId": "",
+          "rallyId": ""
         }
       ],
       "coverPublicId": "member-alan-bester/jyjseaewqr7mcyadxj5j",
@@ -3321,8 +3337,200 @@
             "amount": 30
           }
         ],
-        "exempt": []
+        "exempt": [],
+        "only": []
       }
-    ]
+    ],
+    "sizeCharts": [
+      {
+        "id": "men",
+        "name": "Men's (Leatherick)",
+        "cols": [
+          "Chest (cm)",
+          "Waist (cm)",
+          "Fits chest",
+          "Fits waist",
+          "Back length"
+        ],
+        "rows": [
+          {
+            "size": "S",
+            "vals": [
+              "101-104",
+              "96.5",
+              "91-94",
+              "86",
+              "63.5"
+            ]
+          },
+          {
+            "size": "M",
+            "vals": [
+              "105-109",
+              "101.5",
+              "96-99",
+              "91",
+              "65"
+            ]
+          },
+          {
+            "size": "L",
+            "vals": [
+              "110-114",
+              "106.5",
+              "101-104",
+              "96.5",
+              "66"
+            ]
+          },
+          {
+            "size": "XL",
+            "vals": [
+              "115-119",
+              "111.5",
+              "106-109",
+              "101.5",
+              "67"
+            ]
+          },
+          {
+            "size": "2XL",
+            "vals": [
+              "120-124",
+              "116.5",
+              "111-114",
+              "106.5",
+              "68.5"
+            ]
+          },
+          {
+            "size": "3XL",
+            "vals": [
+              "125-129",
+              "124.5",
+              "116-119",
+              "114",
+              "70"
+            ]
+          },
+          {
+            "size": "4XL",
+            "vals": [
+              "130-134",
+              "129.5",
+              "121-124",
+              "119",
+              "71"
+            ]
+          },
+          {
+            "size": "5XL",
+            "vals": [
+              "135-139",
+              "134.5",
+              "126-129",
+              "124.5",
+              "71"
+            ]
+          }
+        ],
+        "note": "Measure the fullest part of your chest and your waist. If your waist is bigger than your chest, pick by waist."
+      },
+      {
+        "id": "women",
+        "name": "Women's (Leatherick)",
+        "cols": [
+          "Chest (cm)",
+          "Waist (cm)",
+          "Fits chest",
+          "Fits waist",
+          "Back length"
+        ],
+        "rows": [
+          {
+            "size": "S",
+            "vals": [
+              "91",
+              "86",
+              "78-82",
+              "73-77",
+              "54.5"
+            ]
+          },
+          {
+            "size": "M",
+            "vals": [
+              "96.5",
+              "91.5",
+              "83-87",
+              "78-82",
+              "56"
+            ]
+          },
+          {
+            "size": "L",
+            "vals": [
+              "101.5",
+              "96.5",
+              "88-92",
+              "83-87",
+              "57"
+            ]
+          },
+          {
+            "size": "XL",
+            "vals": [
+              "106.5",
+              "101.5",
+              "93-97",
+              "88-92",
+              "58.5"
+            ]
+          },
+          {
+            "size": "2XL",
+            "vals": [
+              "111.5",
+              "106.5",
+              "98-102",
+              "93-97",
+              "59.5"
+            ]
+          },
+          {
+            "size": "3XL",
+            "vals": [
+              "116.5",
+              "112.5",
+              "103-107",
+              "98-103",
+              "62"
+            ]
+          },
+          {
+            "size": "4XL",
+            "vals": [
+              "122",
+              "117",
+              "108-113",
+              "104-108",
+              "63.5"
+            ]
+          },
+          {
+            "size": "5XL",
+            "vals": [
+              "127",
+              "122",
+              "114-118",
+              "109-113",
+              "63.5"
+            ]
+          }
+        ],
+        "note": "Measure your chest and waist. If your waist is bigger than your chest, pick by waist."
+      }
+    ],
+    "rallies": []
   }
 }
