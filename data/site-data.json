@@ -1053,29 +1053,6 @@
       ],
       "packPrice": "",
       "packFit": "female"
-    },
-    {
-      "slug": "supporter-pack",
-      "name": "Supporter pack",
-      "price": "",
-      "description": "What a supporter receives: the vest, not the colours.",
-      "coverPublicId": null,
-      "photoOrder": [],
-      "kind": "joining",
-      "audience": "members",
-      "showOnGear": false,
-      "sizeChart": "",
-      "sizeChartF": "",
-      "contents": "Vest – Male, Beer cozy, Bike colours sticker",
-      "features": "",
-      "faq": "",
-      "packItems": [
-        "vest-male",
-        "beer-cozy",
-        "bike-sticker"
-      ],
-      "packPrice": "",
-      "packFit": "supporter"
     }
   ],
   "rides": [
