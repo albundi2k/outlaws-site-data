@@ -946,25 +946,6 @@
       "packItems": [],
       "packPrice": "",
       "packFit": ""
-    },
-    {
-      "slug": "position-badge-female",
-      "name": "Position badge – Female",
-      "price": "",
-      "description": "An officer's position badge for a women's vest. Only for the member who holds that office.",
-      "coverPublicId": null,
-      "photoOrder": [],
-      "kind": "item",
-      "audience": "members",
-      "showOnGear": false,
-      "sizeChart": "",
-      "sizeChartF": "",
-      "contents": "",
-      "features": "",
-      "faq": "",
-      "packItems": [],
-      "packPrice": "",
-      "packFit": ""
     }
   ],
   "rides": [
