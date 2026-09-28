@@ -24,7 +24,7 @@
           "part": null
         }
       },
-      "enhanceSlideshow": false,
+      "enhanceSlideshow": true,
       "posterSeed": 0,
       "endSeed": 0,
       "reelSilent": false,
