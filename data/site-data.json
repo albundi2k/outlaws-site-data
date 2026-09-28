@@ -1003,31 +1003,6 @@
       "packItems": [],
       "packPrice": "",
       "packFit": ""
-    },
-    {
-      "slug": "joining-pack",
-      "name": "Joining pack",
-      "price": "",
-      "description": "What every new member receives on joining.",
-      "coverPublicId": null,
-      "photoOrder": [],
-      "kind": "joining",
-      "audience": "members",
-      "showOnGear": false,
-      "sizeChart": "",
-      "sizeChartF": "",
-      "contents": "Vest – Male, Colours, Name badge – Male, Beer cozy, Bike colours sticker",
-      "features": "",
-      "faq": "",
-      "packItems": [
-        "vest-male",
-        "colours",
-        "name-badge-male",
-        "beer-cozy",
-        "bike-sticker"
-      ],
-      "packPrice": "",
-      "packFit": "male"
     }
   ],
   "rides": [
