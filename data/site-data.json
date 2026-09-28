@@ -984,25 +984,6 @@
       "packItems": [],
       "packPrice": "",
       "packFit": ""
-    },
-    {
-      "slug": "bike-sticker",
-      "name": "Bike colours sticker",
-      "price": "",
-      "description": "The club colours as a sticker for your bike.",
-      "coverPublicId": null,
-      "photoOrder": [],
-      "kind": "item",
-      "audience": "members",
-      "showOnGear": false,
-      "sizeChart": "",
-      "sizeChartF": "",
-      "contents": "",
-      "features": "",
-      "faq": "",
-      "packItems": [],
-      "packPrice": "",
-      "packFit": ""
     }
   ],
   "rides": [
