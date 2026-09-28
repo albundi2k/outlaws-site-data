@@ -870,25 +870,6 @@
       "packItems": [],
       "packPrice": "",
       "packFit": ""
-    },
-    {
-      "slug": "colours",
-      "name": "Colours",
-      "price": "",
-      "description": "The club's colours for the back of your vest. Patched members only — colours are never sold to anyone else.",
-      "coverPublicId": null,
-      "photoOrder": [],
-      "kind": "item",
-      "audience": "members",
-      "showOnGear": false,
-      "sizeChart": "",
-      "sizeChartF": "",
-      "contents": "",
-      "features": "",
-      "faq": "",
-      "packItems": [],
-      "packPrice": "",
-      "packFit": ""
     }
   ],
   "rides": [
