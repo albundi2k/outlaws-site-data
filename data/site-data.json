@@ -965,25 +965,6 @@
       "packItems": [],
       "packPrice": "",
       "packFit": ""
-    },
-    {
-      "slug": "beer-cozy",
-      "name": "Beer cozy",
-      "price": "",
-      "description": "The club beer cozy.",
-      "coverPublicId": null,
-      "photoOrder": [],
-      "kind": "item",
-      "audience": "supporter",
-      "showOnGear": false,
-      "sizeChart": "",
-      "sizeChartF": "",
-      "contents": "",
-      "features": "",
-      "faq": "",
-      "packItems": [],
-      "packPrice": "",
-      "packFit": ""
     }
   ],
   "rides": [
