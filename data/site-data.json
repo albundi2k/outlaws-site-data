@@ -1028,31 +1028,6 @@
       ],
       "packPrice": "",
       "packFit": "male"
-    },
-    {
-      "slug": "joining-pack-female",
-      "name": "Joining pack – Female",
-      "price": "",
-      "description": "What every new female member receives on joining.",
-      "coverPublicId": null,
-      "photoOrder": [],
-      "kind": "joining",
-      "audience": "members",
-      "showOnGear": false,
-      "sizeChart": "",
-      "sizeChartF": "",
-      "contents": "Vest – Female, Colours, Name badge – Female, Beer cozy, Bike colours sticker",
-      "features": "",
-      "faq": "",
-      "packItems": [
-        "vest-female",
-        "colours",
-        "name-badge-female",
-        "beer-cozy",
-        "bike-sticker"
-      ],
-      "packPrice": "",
-      "packFit": "female"
     }
   ],
   "rides": [
