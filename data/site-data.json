@@ -3725,7 +3725,7 @@
     "sizeCharts": [
       {
         "id": "men",
-        "name": "Men's (Leatherick)",
+        "name": "Men's",
         "cols": [
           "Chest (cm)",
           "Waist (cm)",
@@ -3819,7 +3819,7 @@
       },
       {
         "id": "women",
-        "name": "Women's (Leatherick)",
+        "name": "Women's",
         "cols": [
           "Chest (cm)",
           "Waist (cm)",
