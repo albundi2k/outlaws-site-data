@@ -889,25 +889,6 @@
       "packItems": [],
       "packPrice": "",
       "packFit": ""
-    },
-    {
-      "slug": "colours-own-jacket",
-      "name": "Colours (own jacket)",
-      "price": "",
-      "description": "The club's colours to sew onto your own jacket. Patched members only.",
-      "coverPublicId": null,
-      "photoOrder": [],
-      "kind": "item",
-      "audience": "members",
-      "showOnGear": false,
-      "sizeChart": "",
-      "sizeChartF": "",
-      "contents": "",
-      "features": "",
-      "faq": "",
-      "packItems": [],
-      "packPrice": "",
-      "packFit": ""
     }
   ],
   "rides": [
