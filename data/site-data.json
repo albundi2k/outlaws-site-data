@@ -3753,21 +3753,21 @@
           "year": "2026",
           "img": "",
           "publicId": "",
-          "rallyId": ""
+          "rallyId": "rally-os1wyq"
         },
         {
           "title": "Tete",
           "year": "2026",
           "img": "",
           "publicId": "",
-          "rallyId": ""
+          "rallyId": "rally-884awe"
         },
         {
           "title": "Nyami Nyami",
           "year": "2026",
           "img": "",
           "publicId": "",
-          "rallyId": ""
+          "rallyId": "rally-ees3aj"
         }
       ],
       "coverPublicId": "member-alan-bester/jyjseaewqr7mcyadxj5j",
@@ -4007,7 +4007,26 @@
         "note": "Measure your chest and waist. If your waist is bigger than your chest, pick by waist."
       }
     ],
-    "rallies": [],
+    "rallies": [
+      {
+        "id": "rally-os1wyq",
+        "name": "Ubuntu",
+        "month": "",
+        "badges": {}
+      },
+      {
+        "id": "rally-884awe",
+        "name": "Tete",
+        "month": "",
+        "badges": {}
+      },
+      {
+        "id": "rally-ees3aj",
+        "name": "Nyami Nyami",
+        "month": "",
+        "badges": {}
+      }
+    ],
     "packsSetup": "2026-09-28",
     "cardPartners": [
       {
