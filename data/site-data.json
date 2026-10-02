@@ -832,26 +832,6 @@
       "packFit": ""
     },
     {
-      "slug": "test-male",
-      "name": "Test – Male",
-      "price": "",
-      "description": "",
-      "coverPublicId": null,
-      "photoOrder": [],
-      "kind": "item",
-      "audience": "members",
-      "showOnGear": true,
-      "sizeChart": "men",
-      "sizeChartF": "",
-      "gender": "male",
-      "contents": "",
-      "features": "",
-      "faq": "",
-      "packItems": [],
-      "packPrice": "",
-      "packFit": ""
-    },
-    {
       "slug": "test-female",
       "name": "Test – Female",
       "price": "",
