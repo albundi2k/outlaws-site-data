@@ -809,6 +809,7 @@
       "faq": "",
       "packItems": [],
       "packPrice": "",
+      "priceAsMember": false,
       "packFit": ""
     },
     {
@@ -829,6 +830,7 @@
       "faq": "",
       "packItems": [],
       "packPrice": "",
+      "priceAsMember": false,
       "packFit": ""
     },
     {
@@ -851,6 +853,7 @@
       "faq": "",
       "packItems": [],
       "packPrice": "",
+      "priceAsMember": false,
       "packFit": ""
     },
     {
@@ -873,6 +876,7 @@
       "faq": "",
       "packItems": [],
       "packPrice": "",
+      "priceAsMember": false,
       "packFit": ""
     },
     {
@@ -893,6 +897,7 @@
       "faq": "",
       "packItems": [],
       "packPrice": "",
+      "priceAsMember": false,
       "packFit": ""
     },
     {
@@ -913,6 +918,7 @@
       "faq": "",
       "packItems": [],
       "packPrice": "",
+      "priceAsMember": false,
       "packFit": ""
     },
     {
@@ -933,6 +939,7 @@
       "faq": "",
       "packItems": [],
       "packPrice": "",
+      "priceAsMember": false,
       "packFit": ""
     },
     {
@@ -953,6 +960,7 @@
       "faq": "",
       "packItems": [],
       "packPrice": "",
+      "priceAsMember": false,
       "packFit": ""
     },
     {
@@ -973,6 +981,7 @@
       "faq": "",
       "packItems": [],
       "packPrice": "",
+      "priceAsMember": false,
       "packFit": ""
     },
     {
@@ -993,6 +1002,7 @@
       "faq": "",
       "packItems": [],
       "packPrice": "",
+      "priceAsMember": false,
       "packFit": ""
     },
     {
@@ -1013,6 +1023,7 @@
       "faq": "",
       "packItems": [],
       "packPrice": "",
+      "priceAsMember": false,
       "packFit": ""
     },
     {
@@ -1033,6 +1044,7 @@
       "faq": "",
       "packItems": [],
       "packPrice": "",
+      "priceAsMember": false,
       "packFit": ""
     },
     {
@@ -1053,6 +1065,7 @@
       "faq": "",
       "packItems": [],
       "packPrice": "",
+      "priceAsMember": false,
       "packFit": ""
     },
     {
@@ -1073,6 +1086,7 @@
       "faq": "",
       "packItems": [],
       "packPrice": "",
+      "priceAsMember": false,
       "packFit": ""
     },
     {
@@ -1099,6 +1113,7 @@
         "bike-sticker"
       ],
       "packPrice": "",
+      "priceAsMember": false,
       "packFit": "male"
     },
     {
@@ -1125,6 +1140,7 @@
         "bike-sticker"
       ],
       "packPrice": "",
+      "priceAsMember": false,
       "packFit": "female"
     },
     {
@@ -1149,6 +1165,7 @@
         "bike-sticker"
       ],
       "packPrice": "",
+      "priceAsMember": false,
       "packFit": "supporter"
     }
   ],
@@ -3369,6 +3386,7 @@
       "tagline": "",
       "founding": false,
       "supporter": false,
+      "prospect": false,
       "fallen": false,
       "fallenKind": "",
       "fallenDate": "",
@@ -3393,6 +3411,7 @@
       "tagline": "",
       "founding": false,
       "supporter": false,
+      "prospect": false,
       "fallen": false,
       "fallenKind": "",
       "fallenDate": "",
@@ -3417,6 +3436,7 @@
       "tagline": "",
       "founding": false,
       "supporter": false,
+      "prospect": false,
       "fallen": true,
       "fallenKind": "",
       "fallenDate": "",
@@ -3443,6 +3463,7 @@
       "tagline": "",
       "founding": false,
       "supporter": false,
+      "prospect": false,
       "fallen": false,
       "fallenKind": "",
       "fallenDate": "",
@@ -3467,6 +3488,7 @@
       "tagline": "",
       "founding": false,
       "supporter": false,
+      "prospect": false,
       "fallen": false,
       "fallenKind": "",
       "fallenDate": "",
@@ -3491,6 +3513,7 @@
       "tagline": "",
       "founding": false,
       "supporter": false,
+      "prospect": false,
       "fallen": false,
       "fallenKind": "",
       "fallenDate": "",
@@ -3515,6 +3538,7 @@
       "tagline": "The Boss Man — when the hammer falls, it falls hard.",
       "founding": true,
       "supporter": false,
+      "prospect": false,
       "fallen": false,
       "fallenKind": "",
       "fallenDate": "",
@@ -3543,6 +3567,7 @@
       "tagline": "The Boss when the Boss isn’t. Same hammer, shorter fuse.",
       "founding": true,
       "supporter": false,
+      "prospect": false,
       "fallen": false,
       "fallenKind": "",
       "fallenDate": "",
@@ -3570,6 +3595,7 @@
       "tagline": "Earned the seat. Keeps the vote. Skips the paperwork.",
       "founding": false,
       "supporter": false,
+      "prospect": false,
       "fallen": false,
       "fallenKind": "",
       "fallenDate": "",
@@ -3597,6 +3623,7 @@
       "tagline": "Holds the money. Remembers who still owes.",
       "founding": false,
       "supporter": false,
+      "prospect": false,
       "fallen": false,
       "fallenKind": "",
       "fallenDate": "",
@@ -3624,6 +3651,7 @@
       "tagline": "Keeps the peace. Occasionally by removing it.",
       "founding": false,
       "supporter": false,
+      "prospect": false,
       "fallen": false,
       "fallenKind": "",
       "fallenDate": "",
@@ -3648,6 +3676,7 @@
       "tagline": "Picks the road, the fuel stop and the pub — in that order.",
       "founding": true,
       "supporter": false,
+      "prospect": false,
       "fallen": false,
       "fallenKind": "",
       "fallenDate": "",
@@ -3672,6 +3701,7 @@
       "tagline": "Earned the seat. Keeps the vote. Skips the paperwork.",
       "founding": false,
       "supporter": false,
+      "prospect": false,
       "fallen": false,
       "fallenKind": "",
       "fallenDate": "",
@@ -3701,6 +3731,7 @@
       "tagline": "Writes it all down. Yes, that too.",
       "founding": false,
       "supporter": false,
+      "prospect": false,
       "fallen": false,
       "fallenKind": "",
       "fallenDate": "",
@@ -3744,6 +3775,36 @@
         "member-alan-bester/jyjseaewqr7mcyadxj5j",
         "member-alan-bester/lwmujaevoe3j8e5irbi1"
       ]
+    },
+    {
+      "id": "courage-mubangi-nyanyiwa",
+      "name": "Courage Mubangi Nyanyiwa",
+      "nickname": "Courage",
+      "bikes": [
+        {
+          "name": "2015 Bmw S1000RR",
+          "nickname": "The Psycho"
+        }
+      ],
+      "bio": "",
+      "memberSince": "2026",
+      "office": "",
+      "officeHistory": [],
+      "tagline": "",
+      "founding": false,
+      "supporter": false,
+      "prospect": true,
+      "fallen": false,
+      "fallenKind": "",
+      "fallenDate": "",
+      "fallenYear": "",
+      "left": false,
+      "leftDate": "",
+      "rides": [],
+      "coverPublicId": null,
+      "officerCoverPublicId": null,
+      "focus": {},
+      "photoOrder": []
     }
   ],
   "settings": {
@@ -4011,6 +4072,55 @@
         "service": "Flatbed bike recovery",
         "phone": "0782799363",
         "url": ""
+      }
+    ],
+    "appNotice": {
+      "prospect": "",
+      "supporter": ""
+    },
+    "cardFee": {
+      "on": false,
+      "amount": 10,
+      "types": [
+        "sos",
+        "partner"
+      ]
+    },
+    "usefulNumbers": [
+      {
+        "country": "Zimbabwe",
+        "text": "Police 995 · Ambulance 994 · Any 999 · Mobile 112",
+        "show": true
+      },
+      {
+        "country": "South Africa",
+        "text": "Police 10111 · Ambulance 10177 · Mobile 112",
+        "show": true
+      },
+      {
+        "country": "Zambia",
+        "text": "Police 991 · Ambulance 991 · Fire 993",
+        "show": true
+      },
+      {
+        "country": "Botswana",
+        "text": "Police 999 · Ambulance 997 · Mobile 112",
+        "show": true
+      },
+      {
+        "country": "Mozambique",
+        "text": "Police 119 · Ambulance 117",
+        "show": true
+      },
+      {
+        "country": "Malawi",
+        "text": "Police 997 · Ambulance 998",
+        "show": true
+      },
+      {
+        "country": "Namibia",
+        "text": "Police 10111 · Mobile 112",
+        "show": true
       }
     ]
   }
