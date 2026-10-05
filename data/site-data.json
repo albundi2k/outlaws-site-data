@@ -3884,6 +3884,31 @@
       "officerCoverPublicId": null,
       "focus": {},
       "photoOrder": []
+    },
+    {
+      "id": "carmen-smith",
+      "name": "Carmen Smith",
+      "nickname": "",
+      "bikes": [],
+      "bio": "",
+      "memberSince": "2026",
+      "office": "",
+      "officeHistory": [],
+      "tagline": "",
+      "founding": false,
+      "supporter": true,
+      "prospect": false,
+      "fallen": false,
+      "fallenKind": "",
+      "fallenDate": "",
+      "fallenYear": "",
+      "left": false,
+      "leftDate": "",
+      "rides": [],
+      "coverPublicId": null,
+      "officerCoverPublicId": null,
+      "focus": {},
+      "photoOrder": []
     }
   ],
   "settings": {
