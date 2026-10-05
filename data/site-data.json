@@ -8,7 +8,17 @@
       "rideId": "ride-p0jzr1r",
       "noPoster": false,
       "coverPublicId": null,
-      "photoOrder": [],
+      "photoOrder": [
+        "trader-horn-bloody-mary-breakfast-run/dhzsof22i7emkmup5xoq",
+        "trader-horn-bloody-mary-breakfast-run/myegmdynbcxqkxin9xew",
+        "trader-horn-bloody-mary-breakfast-run/uwla5pcbdut5weuo28pl",
+        "trader-horn-bloody-mary-breakfast-run/mcdvdu1cdooqvo5vjsh7",
+        "trader-horn-bloody-mary-breakfast-run/hasddvvaewhouv1cbmbp",
+        "trader-horn-bloody-mary-breakfast-run/nvxo4dg6rfxqzplflot1",
+        "trader-horn-bloody-mary-breakfast-run/mtymcckrj5qbhhpkfhym",
+        "trader-horn-bloody-mary-breakfast-run/ofhrnjkgvgs9wr79cud1",
+        "trader-horn-bloody-mary-breakfast-run/e8xucpmzpzrtucdwpffb"
+      ],
       "photoMetadata": {
         "trader-horn-bloody-mary-breakfast-run/zp34ljnlydjxea6gzihc": {
           "name": "Traderhorn 1 27.9.26.jpeg",
@@ -19,6 +29,64 @@
           "name": "trader horn 2 27.9.26.jpeg",
           "seq": 2,
           "part": null
+        },
+        "trader-horn-bloody-mary-breakfast-run/dhzsof22i7emkmup5xoq": {
+          "name": "1.jpeg",
+          "seq": 1,
+          "part": null,
+          "reel": true
+        },
+        "trader-horn-bloody-mary-breakfast-run/myegmdynbcxqkxin9xew": {
+          "name": "2.jpeg",
+          "seq": 2,
+          "part": null,
+          "reel": true
+        },
+        "trader-horn-bloody-mary-breakfast-run/uwla5pcbdut5weuo28pl": {
+          "name": "3 - 1.mp4",
+          "seq": 3,
+          "part": null,
+          "dur": 47
+        },
+        "trader-horn-bloody-mary-breakfast-run/mcdvdu1cdooqvo5vjsh7": {
+          "name": "3 - 2.mp4",
+          "seq": 3,
+          "part": 2,
+          "reel": true,
+          "dur": 45.3
+        },
+        "trader-horn-bloody-mary-breakfast-run/hasddvvaewhouv1cbmbp": {
+          "name": "4 - 1.mp4",
+          "seq": 4,
+          "part": null,
+          "reel": true,
+          "dur": 41
+        },
+        "trader-horn-bloody-mary-breakfast-run/nvxo4dg6rfxqzplflot1": {
+          "name": "4 - 2.mp4",
+          "seq": 4,
+          "part": 2,
+          "reel": true,
+          "dur": 39.4
+        },
+        "trader-horn-bloody-mary-breakfast-run/mtymcckrj5qbhhpkfhym": {
+          "name": "5.jpeg",
+          "seq": 5,
+          "part": null,
+          "reel": true
+        },
+        "trader-horn-bloody-mary-breakfast-run/ofhrnjkgvgs9wr79cud1": {
+          "name": "6.mp4",
+          "seq": 6,
+          "part": null,
+          "dur": 25.4
+        },
+        "trader-horn-bloody-mary-breakfast-run/e8xucpmzpzrtucdwpffb": {
+          "name": "7.mp4",
+          "seq": 7,
+          "part": null,
+          "reel": true,
+          "dur": 13.1
         }
       },
       "enhanceSlideshow": true,
