@@ -3889,7 +3889,12 @@
       "id": "carmen-smith",
       "name": "Carmen Smith",
       "nickname": "Angel",
-      "bikes": [],
+      "bikes": [
+        {
+          "name": "None",
+          "nickname": ""
+        }
+      ],
       "bio": "Live to ride ride to live",
       "memberSince": "2026",
       "office": "",
