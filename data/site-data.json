@@ -857,11 +857,11 @@
     },
     {
       "role": "sergeant-at-arms",
-      "name": "Haiden Broderick",
+      "name": "",
       "handle": "",
       "bikes": [],
       "testimonial": "",
-      "tagline": "Keeps the peace. Occasionally by removing it.",
+      "tagline": "",
       "coverPublicId": null,
       "photoOrder": []
     },
@@ -3732,8 +3732,14 @@
       "bikes": [],
       "bio": "",
       "memberSince": "2026",
-      "office": "sergeant-at-arms",
-      "officeHistory": [],
+      "office": "",
+      "officeHistory": [
+        {
+          "office": "sergeant-at-arms",
+          "from": "",
+          "to": "2026-10-29"
+        }
+      ],
       "tagline": "Keeps the peace. Occasionally by removing it.",
       "founding": false,
       "supporter": false,
