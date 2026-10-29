@@ -857,11 +857,11 @@
     },
     {
       "role": "sergeant-at-arms",
-      "name": "",
+      "name": "Valdano Brown",
       "handle": "",
       "bikes": [],
       "testimonial": "",
-      "tagline": "",
+      "tagline": "Earned the seat. Keeps the vote. Skips the paperwork.",
       "coverPublicId": null,
       "photoOrder": []
     },
@@ -3676,8 +3676,19 @@
       "bikes": [],
       "bio": "",
       "memberSince": "2026",
-      "office": "council",
-      "officeHistory": [],
+      "office": "sergeant-at-arms",
+      "officeHistory": [
+        {
+          "office": "council",
+          "from": "",
+          "to": "2026-10-29"
+        },
+        {
+          "office": "sergeant-at-arms",
+          "from": "2026-10-29",
+          "to": ""
+        }
+      ],
       "tagline": "Earned the seat. Keeps the vote. Skips the paperwork.",
       "founding": false,
       "supporter": false,
